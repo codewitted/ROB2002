@@ -14,7 +14,7 @@ class MoverBasic(Node):
 
     def timer_callback(self):
         msg = Twist()
-        msg.linear.x = 0.1
+        msg.linear.x = 2.0
         self.publisher_.publish(msg)
         self.get_logger().info('Publishing: "{0}"'.format(msg))
         self.i += 1
