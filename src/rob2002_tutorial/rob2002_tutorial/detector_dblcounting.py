@@ -54,7 +54,7 @@ class DetectorBasic(Node):
                 # append the bounding box of the region into a list
                 detected_objects.append(Rectangle(bbx, bby, bbx+bbw, bby+bbh))
                 if self.visualisation:
-                    cv.rectangle(bgr_image, (bbx, bby), (bbx+bbw, bby+bbh), self.countour_color,  self.countour_width)
+                    cv.rectangle(self.image_color, (bbx, bby), (bbx+bbw, bby+bbh), self.countour_color,  self.countour_width)
 
         # double detection filtering
         # filter out the objects which overlap with detections from the previous frame
@@ -82,13 +82,13 @@ class DetectorBasic(Node):
 
         # log the processed images to files
         if self.data_logging:
-            cv.imwrite(self.log_path + f'colour_{self.seq:06d}.png', bgr_image)
-            cv.imwrite(self.log_path + f'mask_{self.seq:06d}.png', bgr_thresh)
+            cv.imwrite(self.log_path + f'colour_{self.seq:06d}.png', self.image_color)
+            cv.imwrite(self.log_path + f'mask_{self.seq:06d}.png', bgr_colo)
 
         # visualise the image processing results    
         if self.visualisation:
-            cv.imshow("colour image", bgr_image)
-            cv.imshow("detection mask", bgr_thresh)
+            cv.imshow("colour image", self.image_color)
+            cv.imshow("detection mask", bgr_colo)
             cv.waitKey(1)
 
         self.seq += 1
