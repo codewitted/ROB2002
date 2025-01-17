@@ -8,7 +8,7 @@ from sensor_msgs.msg import Image
 from geometry_msgs.msg import Polygon, PolygonStamped, Point32
 from cv_bridge import CvBridge
 
-from .rectangle import Rectangle
+from rectangle import Rectangle
 
 class DetectorBasic(Node):
     visualisation = True
@@ -30,14 +30,18 @@ class DetectorBasic(Node):
                                                   self.image_color_callback, qos_profile=qos.qos_profile_sensor_data)
         
     def image_color_callback(self, data):
-        bgr_image = self.bridge.imgmsg_to_cv2(data, "bgr8") # convert ROS Image message to OpenCV format
+        self.image_color = self.bridge.imgmsg_to_cv2(data, "bgr8") # convert ROS Image message to OpenCV format
+        
 
         # detect a color blob in the color image
         # provide the right range values for each BGR channel (set to red bright objects)
-        bgr_thresh = cv.inRange(bgr_image, (0, 0, 80), (50, 50, 255))
+        red_colo = cv.inRange(self.image_color, (0, 0, 80), (50, 50, 255))
+        green_colo = cv.inRange(self.image_color, (0, 80, 0), (50, 255, 50))
+        blue_colo = cv.inRange(self.image_color, (80, 0, 0), (255, 50, 50))
+        bgr_colo = cv.bitwise_or(cv.bitwise_or(red_colo, green_colo), blue_colo)
 
         # finding all separate image regions in the binary image, using connected components algorithm
-        bgr_contours, _ = cv.findContours( bgr_thresh,
+        bgr_contours, _ = cv.findContours( bgr_colo,
             cv.RETR_TREE, cv.CHAIN_APPROX_SIMPLE)
 
         detected_objects = []

@@ -120,9 +120,13 @@ class Detector3D(Node):
         # detect a color blob in the color image (here it is bright red)
         # provide the right values, or even better do it in HSV
         image_mask = cv2.inRange(self.image_color, (0, 0, 80), (50, 50, 255))
+        red_colo = cv2.inRange(self.image_color, (0, 0, 80), (50, 50, 255))
+        green_colo = cv2.inRange(self.image_color, (0, 80, 0), (50, 255, 50))
+        blue_colo = cv2.inRange(self.image_color, (80, 0, 0), (255, 50, 50))
+        all_colo = cv2.bitwise_or(cv2.bitwise_or(red_colo, green_colo), blue_colo)
 
         # finding all separate image regions in the binary image, using connected components algorithm
-        object_contours, _ = cv2.findContours( image_mask, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+        object_contours, _ = cv2.findContours( all_colo, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
 
         # iterate through all detected objects/contours
         # calculate their image coordinates
