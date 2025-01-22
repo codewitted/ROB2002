@@ -1,0 +1,2 @@
+ros2 launch limo_navigation limo_navigation.launch.py map:=(file path copied)
+ros2 launch limo_navigation limo_navigation.launch.py map:=map_3.yaml
