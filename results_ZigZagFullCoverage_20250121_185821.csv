@@ -1,0 +1,10 @@
+record_type,time_sec,color,x,y,z,scenario,count_red,count_green,count_blue,count_total,extra_notes
+DETECTION,13.63,green,-2.55,-0.65,0.07,ZigZagFullCoverage,,,,,
+DETECTION,13.64,red,-2.28,2.07,0.07,ZigZagFullCoverage,,,,,
+DETECTION,17.42,blue,-4.08,3.88,0.07,ZigZagFullCoverage,,,,,
+DETECTION,19.97,blue,-4.28,4.88,0.06,ZigZagFullCoverage,,,,,
+DETECTION,22.76,green,-2.33,0.04,0.04,ZigZagFullCoverage,,,,,
+DETECTION,22.76,red,-2.24,2.76,0.06,ZigZagFullCoverage,,,,,
+DETECTION,43.33,red,-2.02,3.81,0.01,ZigZagFullCoverage,,,,,
+DETECTION,156.98,green,101.36,-15.62,-0.30,ZigZagFullCoverage,,,,,
+SUMMARY,164.58,,,,,ZigZagFullCoverage,3,3,2,8,Run completed or interrupted.

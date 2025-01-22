@@ -1,0 +1,13 @@
+record_type,time_sec,color,x,y,z,scenario,count_red,count_green,count_blue,count_total,extra_notes
+DETECTION,6.44,green,-2.01,-1.86,0.07,reversing_demo,,,,,
+DETECTION,6.44,green,-2.14,2.02,0.07,reversing_demo,,,,,
+DETECTION,36.56,blue,4.66,-1.97,0.02,reversing_demo,,,,,
+DETECTION,39.13,blue,2.36,-2.06,0.07,reversing_demo,,,,,
+DETECTION,46.16,green,0.33,0.45,0.11,reversing_demo,,,,,
+DETECTION,51.41,green,1.93,2.55,0.26,reversing_demo,,,,,
+DETECTION,54.38,blue,-2.93,3.43,0.15,reversing_demo,,,,,
+DETECTION,59.67,blue,-3.46,4.90,0.05,reversing_demo,,,,,
+DETECTION,59.67,green,-1.92,0.33,0.07,reversing_demo,,,,,
+DETECTION,70.11,red,-1.87,-1.85,0.06,reversing_demo,,,,,
+DETECTION,70.11,blue,-2.36,0.31,0.07,reversing_demo,,,,,
+SUMMARY,71.59,,,,,reversing_demo,1,5,5,11,Run completed or interrupted.

@@ -1,0 +1,5 @@
+record_type,time_sec,color,x,y,z,scenario,count_red,count_green,count_blue,count_total,extra_notes
+DETECTION,138.26,blue,6.49,1.23,0.10,warehouse_improved,,,,,
+DETECTION,144.01,blue,5.40,1.97,0.00,warehouse_improved,,,,,
+DETECTION,240.52,blue,4.06,2.91,0.08,warehouse_improved,,,,,
+SUMMARY,240.95,,,,,warehouse_improved,0,0,3,3,User interrupted or run completed.

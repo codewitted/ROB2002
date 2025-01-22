@@ -1,0 +1,6 @@
+ros2 launch limo_gazebosim limo_gazebo_diff.launch.py
+ros2 launch slam_toolbox online_async_launch.py use_sim_time:=true
+ rviz2 -d /opt/ros/lcas/install/limo_navigation/share/limo_navigation/rviz/limo_navigation.rviz
+ros2 run teleop_twist_keyboard teleop_twist_keyboard
+ros2 run nav2_map_server map_saver_cli -f my_map
+ros2 launch limo_navigation limo_navigation.launch.py map:=my_map.yaml use_sim_time:=true (=to path)
