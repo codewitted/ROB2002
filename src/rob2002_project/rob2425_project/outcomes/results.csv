@@ -1,0 +1,9 @@
+Environment,Method,Trial,Time(s),RedDetected,GreenDetected,BlueDetected,TotalDetected,CorrectDetected,GroundTruth,FalsePositives,Misses,Precision,Recall,F1,Notes
+1 (Easy),Baseline,Avg,82.0,3,2,3,8,8,9,0,1,0.89,0.89,0.89,"1 missed box (mostly occlusion). No false positives."
+1 (Easy),Enhanced,Avg,96.0,3,3,3,9,9,9,0,0,1.00,1.00,1.00,"All 9 boxes found, no misses or FPs. ~14s slower than Baseline."
+2 (Moderate),Baseline,1,125.2,5,3,3,11,7,9,4,2,0.64,0.78,0.70,"4 false positives (brown walls misread as red). 2 real boxes missed."
+2 (Moderate),Enhanced,1,140.1,4,3,3,10,9,9,1,0,0.90,1.00,0.95,"Still 1 false red from walls, but no misses. ~15s slower."
+3 (Cluttered),Baseline,1,158.7,6,3,3,12,6,9,6,3,0.50,0.67,0.57,"6 false positives for red walls, 3 real boxes missed."
+3 (Cluttered),Enhanced,1,175.3,4,3,3,10,9,9,1,0,0.90,1.00,0.95,"Only 1 false positive, no misses. ~17s slower than Baseline."
+COMMENT,Hypothesis,,,,,,,,,,,,,,"As clutter increases, Enhanced outperforms Baseline by a wider margin."
+COMMENT,AdditionalNote,,,,,,,,,,,,,,"False positives often occur for red in Env2/Env3 due to brown walls."
