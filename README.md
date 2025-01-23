@@ -2,10 +2,11 @@ This repository is a companion resource for the Evaluation for Robotics module, 
 
 ## Workshops
 For a list of all the workshops offered as part of ROB2002 and additional resources, please refer to the [Wiki](https://github.com/LCAS/ROB2002/wiki).
-The rest are instructions to you the files and code provided for the evaluation for robotics assessment ROB2002-2425
-# Robotic Counting Demo (Baseline vs. Enhanced)
+The rest are instructions on how to use the files and code provided for the evaluation for robotics assessment ROB2002-2425
 
-This repository contains ROS2 Python scripts to demonstrate a robotic counting experiment under three different environments:
+# Robotic Counting (Baseline vs. Enhanced)
+
+This repository contains ROS2 Python nodes and scripts to demonstrate a robotic counting experiment under three different environments:
 
 - Environment 1 (Open warehouse)
 - Environment 2 (Moderate obstacles)
@@ -42,3 +43,11 @@ This repository contains ROS2 Python scripts to demonstrate a robotic counting e
    cd ..
    colcon build
    source install/setup.bash
+Make sure Docker is running on you machine before you do anything else.
+Go to worlds and run a chosen world.
+Once it's successfull, in another terminal run the enhanced or baseline node scripts to see the demo.
+You could also open and launch the maps yaml files to observe the experimemts there.
+
+The results like final “Total Unique Objects” or logs about corners visited go to your console (and can be easily saved to file with standard shell commands, e.g. > output.txt)
+
+Running scripts in the results sections either prints a png of the outcomes or prints the data in terminal.

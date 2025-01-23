@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Robot Evaluation Script with:
-  - Advanced Detector (unchanged from prior example).
+  - Advanced Detector with CSV Logging.
   - AdaptiveCoverage with Reverse Maneuver when too close to walls/obstacles.
   - Stops after visiting corners, optional random coverage, and returning home.
 """
