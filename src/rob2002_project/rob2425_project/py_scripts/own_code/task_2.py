@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """
 Robot Evaluation Script with:
-  - AdvancedDetector (unchanged from prior example).
-  - AdaptiveCoverage with 360° collision avoidance:
-      • The robot follows a predetermined path (e.g. visit corners in order, then random coverage, then return home).
-      • A 360° safe zone is enforced. If any obstacle is detected closer than 3× the robot’s characteristic distance
-        (for example, for a robot of 0.5 m length, safe_distance = 1.5 m), the robot will turn away from the obstacle.
-      • The robot then steers away (using a fixed lateral adjustment) until the safe zone is re‐established, thereby avoiding impact.
-  - Only new messages (i.e. changes in detected parameters or avoidance decisions) are printed to the terminal and logged.
+  - AdvancedDetector
+  - AdaptiveCoverage implementing basic car movement:
+      • The robot proceeds in order: corner1 → corner2 → corner3 → corner4.
+      • Then it follows a short random coverage phase before returning home.
+      • While moving, if an obstacle is detected within a safe distance (twice the robot's length),
+        the robot does not change its overall course. It instead applies a fixed lateral steering offset
+        (to either left or right, based on which side is closer to an obstacle) until that obstacle is cleared.
+      • When the path ahead is completely clear (readings above a brake threshold) the robot accelerates at maximum speed.
+  - Only new messages (i.e. changes in detected parameters or avoidance decisions) are printed and logged.
+  - The task is complete when all waypoints are visited and the robot has returned home.
 """
 
 import math
@@ -33,6 +36,7 @@ from tf2_ros import Buffer, TransformListener
 from tf2_geometry_msgs import do_transform_pose
 from cv_bridge import CvBridge
 
+
 ###############################################################################
 # 1. CSV LOGGER – For Recording Results
 ###############################################################################
@@ -40,6 +44,7 @@ class CSVLogger:
     def __init__(self, scenario_name="default_scenario"):
         now_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
         self.filename = f"results_{scenario_name}_{now_str}.csv"
+
         self.file = open(self.filename, mode='w', newline='')
         self.writer = csv.writer(self.file)
         self.writer.writerow([
@@ -79,32 +84,40 @@ class AdvancedDetector(Node):
     def __init__(self, scenario_name="default_scenario"):
         super().__init__('advanced_detector')
         self.logger = CSVLogger(scenario_name=scenario_name)
-        # TF & frames
+
+        # TF / frames
         self.tf_buffer = Buffer()
         self.tf_listener = TransformListener(self.tf_buffer, self)
         self.global_frame = 'odom'
         self.camera_frame = 'depth_link'
+
         # Sensor models
         self.ccamera_model = None
         self.dcamera_model = None
         self.color2depth_aspect = None
+
         self.bridge = CvBridge()
         self.depth_image_ros = None
         self.real_robot = False
+
         self.detected_objects = []
         self.detection_threshold = 0.6
-        # HSV thresholds for red, green, blue
+
+        # Example HSV thresholds for red, green, blue
         self.lower_red1 = np.array([0,   120,  70],  dtype=np.uint8)
         self.upper_red1 = np.array([10,  255, 255],  dtype=np.uint8)
         self.lower_red2 = np.array([170, 120,  70],  dtype=np.uint8)
         self.upper_red2 = np.array([180, 255, 255],  dtype=np.uint8)
+
         self.lower_green = np.array([35, 100, 100], dtype=np.uint8)
         self.upper_green = np.array([85, 255, 255], dtype=np.uint8)
         self.lower_blue  = np.array([90, 100, 100], dtype=np.uint8)
         self.upper_blue  = np.array([130,255,255],  dtype=np.uint8)
+
         # LiDAR subscription
         self.lidar_ranges = []
         self.create_subscription(LaserScan, 'scan', self.lidar_callback, qos.qos_profile_sensor_data)
+
         # Camera info and image subscriptions
         ccamera_info_topic = '/limo/depth_camera_link/camera_info'
         dcamera_info_topic = '/limo/depth_camera_link/depth/camera_info'
@@ -120,6 +133,7 @@ class AdvancedDetector(Node):
         self.create_subscription(CameraInfo, dcamera_info_topic, self.dcamera_info_callback, qos.qos_profile_sensor_data)
         self.create_subscription(Image, cimage_topic, self.image_color_callback, qos.qos_profile_sensor_data)
         self.create_subscription(Image, dimage_topic, self.image_depth_callback, qos.qos_profile_sensor_data)
+
         self.visualise = True
         self.get_logger().info("AdvancedDetector initialized (with CSV logging).")
 
@@ -272,10 +286,10 @@ class AdaptiveCoverage(Node):
         1. Visit four corners in order.
         2. Then perform a short random coverage phase.
         3. Then return home.
-    - While traversing, if an obstacle is detected within a safe distance (set here to 2× the robot's length)
-      in any direction, the robot does NOT change its overall course.
-      Instead, it steers laterally (adds a fixed angular adjustment) to avoid impact.
-    - When the path ahead is clear (readings above a brake threshold) the robot accelerates at maximum speed.
+    - While traversing, if an obstacle is detected within a safe distance (set to 2× robot length),
+      the robot does NOT change its overall course. Instead, it steers laterally (without altering its target heading)
+      until the obstacle is passed.
+    - When the path ahead is clear (readings above brake_distance), it accelerates at maximum speed.
     - Only new (changed) messages are printed to the terminal and logged.
     """
     def __init__(self):
@@ -290,12 +304,12 @@ class AdaptiveCoverage(Node):
         self.current_y = 0.0
         self.current_yaw = 0.0
 
-        # Task state: VISIT_CORNERS, RANDOM_COVERAGE, RETURN_HOME.
+        # State management: Visit corners in order, then random coverage, then return home.
         self.state = "VISIT_CORNERS"
         self.corner_idx = 0
         self.done = False
 
-        # Pre-defined corners.
+        # Pre-defined corners (visit in order: 1→2→3→4)
         self.corners = [
             (4.5,  4.5),
             (4.5, -4.5),
@@ -316,22 +330,22 @@ class AdaptiveCoverage(Node):
         self.angular_speed = 0.3
 
         # New safety parameters:
-        # Set safe distance to 2× the robot’s length. (For example, if the robot’s length is ~0.5 m, safe_distance = 1.0 m.)
+        # Safe distance is twice the robot length (assumed robot length ~0.5 m → safe_distance = 1.0 m)
         self.safe_distance = 1.0
-        # But now, to "turn away from the wall and avoid impact" we use the following behavior:
-        # If any obstacle is detected within 3× the robot’s length (e.g. 3×0.5 = 1.5 m) anywhere 360° around,
-        # then the robot will initiate a lateral turn away from it.
-        self.impact_distance = 1.5
-        # The brake_distance (for accelerating when the path is clear) remains:
+        # Brake distance: if front sensor reads above this, accelerate.
         self.brake_distance = 2.0
 
-        # For basic avoidance, we compute a fixed lateral adjustment if the minimum reading
-        # in either the left or right half of the laser scan is below the safe distance.
+        # For basic avoidance, we do not change the overall course. Instead, if an obstacle is detected,
+        # we add a fixed lateral (angular) adjustment to “steer past” the obstacle while continuing toward the target.
+        # This adjustment is computed on each cycle from the sensor data.
+        # (No persistent avoidance state is kept here.)
         self.last_avoid_msg = ""
+
+        # For terminal/log filtering.
         self.last_log_msg = ""
 
         self.obstacle_logger = CSVLogger(scenario_name="AdaptiveCoverage_Obstacles")
-        self.get_logger().info("AdaptiveCoverage node ready (basic car movement with 360° obstacle avoidance).")
+        self.get_logger().info("AdaptiveCoverage node ready (basic car movement with simple obstacle avoidance).")
 
     def scan_cb(self, msg: LaserScan):
         self.laser_ranges = list(msg.ranges)
@@ -362,10 +376,13 @@ class AdaptiveCoverage(Node):
         if self.done:
             self.cmd_vel_pub.publish(Twist())
             return
+
         if not self.laser_ranges:
             return
 
         target = self.get_current_target()
+
+        # Compute target heading (the desired direction ignoring obstacles)
         if target is None:
             return
         tx, ty = target
@@ -373,51 +390,33 @@ class AdaptiveCoverage(Node):
         heading_error = desired_heading - self.current_yaw
         heading_error = math.atan2(math.sin(heading_error), math.cos(heading_error))
 
-        # First: if any reading (360°) is below the impact threshold, turn away.
-        if min(self.laser_ranges) < self.impact_distance:
-            # Determine which side (left/right) is closer
-            total = len(self.laser_ranges)
-            mid = total // 2
-            left_min = min(self.laser_ranges[mid:]) if total - mid > 0 else float('inf')
-            right_min = min(self.laser_ranges[:mid]) if mid > 0 else float('inf')
-            if left_min < right_min:
-                # Obstacle on left: steer right.
-                avoidance_offset = -0.4
-                msg = f"Impact alert: obstacle on left at {left_min:.2f} m – turning right."
-            else:
-                # Obstacle on right: steer left.
-                avoidance_offset = 0.4
-                msg = f"Impact alert: obstacle on right at {right_min:.2f} m – turning left."
-            self._print_once(msg)
-            self.obstacle_logger.log_detection("impact", self.current_x, self.current_y, 0, note=msg)
-        else:
-            # Otherwise, compute an avoidance offset (based on the left/right halves of laser-scan)
-            avoidance_offset = self._get_avoidance_adjustment()
-
+        # Compute an additional avoidance adjustment.
+        avoidance_offset = self._get_avoidance_adjustment()
         total_angular = heading_error + avoidance_offset
 
-        # Decide on speed: if the front sector is clear (above brake_distance) then use fast_speed
+        # Decide on speed based on front clearance.
         front_clear = self._front_clearance() > self.brake_distance
         linear_speed = self.fast_speed if front_clear else self.slow_speed
 
+        # Assemble and publish Twist command.
         tw = Twist()
         tw.linear.x = linear_speed
         tw.angular.z = max(-self.angular_speed, min(self.angular_speed, total_angular))
         self.cmd_vel_pub.publish(tw)
 
-        # Check if the target is reached.
+        # Check if we reached the current target.
         if math.hypot(tx - self.current_x, ty - self.current_y) < self.corner_tolerance:
             self.cmd_vel_pub.publish(Twist())
             if self.state == "VISIT_CORNERS":
                 self._print_once(f"Corner {self.corner_idx+1} reached.")
                 self.corner_idx += 1
-                if self.corner_idx >= len(self.corners):
-                    self._print_once("All 4 corners reached. Starting random coverage.")
-                    for _ in range(5):
-                        rx = self.rng.uniform(-4.5, 4.5)
-                        ry = self.rng.uniform(-4.5, 4.5)
-                        self.random_targets.append((rx, ry))
-                    self.state = "RANDOM_COVERAGE"
+            if self.state == "VISIT_CORNERS" and self.corner_idx >= len(self.corners):
+                self._print_once("All 4 corners reached. Starting random coverage.")
+                for _ in range(5):
+                    rx = self.rng.uniform(-4.5, 4.5)
+                    ry = self.rng.uniform(-4.5, 4.5)
+                    self.random_targets.append((rx, ry))
+                self.state = "RANDOM_COVERAGE"
             elif self.state == "RANDOM_COVERAGE" and not self.random_targets:
                 self._print_once("Random coverage complete. Returning home.")
                 self.state = "RETURN_HOME"
@@ -427,65 +426,71 @@ class AdaptiveCoverage(Node):
 
     def _get_avoidance_adjustment(self):
         """
-        Examine the left and right halves of the laser-scan.
-        If an obstacle in one half is detected within the safe distance (2× robot length)
-        then return a fixed angular offset: positive to steer left, negative to steer right.
+        Checks the left and right halves of the laser-scan.
+        If an obstacle is detected (within safe_distance) on one side,
+        returns a fixed angular offset (without changing the overall heading).
+        Positive offset steers left; negative steers right.
         """
         if not self.laser_ranges:
             return 0.0
         total = len(self.laser_ranges)
         mid = total // 2
-        left_section = self.laser_ranges[mid:]
-        right_section = self.laser_ranges[:mid]
+        left_section = self.laser_ranges[mid: ]
+        right_section = self.laser_ranges[: mid]
 
         left_min = min(left_section) if left_section else float('inf')
         right_min = min(right_section) if right_section else float('inf')
         adjustment = 0.0
 
         if left_min < self.safe_distance or right_min < self.safe_distance:
+            # If obstacle is closer on the left, steer right (negative offset).
+            # If obstacle is closer on the right, steer left (positive offset).
             if left_min < right_min:
                 adjustment = -0.3  # steer right
-                msg = f"Obstacle closer on left (min {left_min:.2f} m): steering right."
+                msg = f"Obstacle on left (min {left_min:.2f} m): steering right"
             else:
                 adjustment = 0.3   # steer left
-                msg = f"Obstacle closer on right (min {right_min:.2f} m): steering left."
+                msg = f"Obstacle on right (min {right_min:.2f} m): steering left"
             self._print_once(msg)
-            self.obstacle_logger.log_detection("avoid", self.current_x, self.current_y, 0, note=msg)
+            self.obstacle_logger.log_detection("obstacle", self.current_x, self.current_y, 0, note=msg)
         else:
-            msg = "No lateral avoidance required; path clear."
+            msg = "Path clear for lateral movement."
             self._print_once(msg)
-            self.obstacle_logger.log_detection("clear", self.current_x, self.current_y, 0, note=msg)
+            self.obstacle_logger.log_detection("clear", self.current_x, self.current_y, 0, note="Path clear, no avoidance needed.")
         return adjustment
 
     def _front_clearance(self):
-        """Return the minimum distance measured in a narrow forward sector."""
+        """Returns the minimum distance measured in a narrow front sector."""
         total = len(self.laser_ranges)
         mid = total // 2
         idx_start = max(0, mid - 5)
         idx_end = min(total, mid + 5)
-        sector = self.laser_ranges[idx_start:idx_end]
+        sector = self.laser_ranges[idx_start: idx_end]
         if not sector:
             return float('inf')
         return min(sector)
 
     def _print_once(self, msg):
-        """Print and log the message only if it differs from the previous message."""
+        """Prints (and logs) the message only if it is different from the last printed message."""
         if msg != self.last_log_msg:
             self.get_logger().info(msg)
             self.last_log_msg = msg
-
 
 ###############################################################################
 # 4. MAIN: Launch Detector + Coverage
 ###############################################################################
 def main(args=None):
     rclpy.init(args=args)
+
     scenario_name = "reversing_demo"
+
     detector = AdvancedDetector(scenario_name=scenario_name)
     coverage = AdaptiveCoverage()
+
     executor = MultiThreadedExecutor(num_threads=2)
     executor.add_node(detector)
     executor.add_node(coverage)
+
     try:
         executor.spin()
     except KeyboardInterrupt:
