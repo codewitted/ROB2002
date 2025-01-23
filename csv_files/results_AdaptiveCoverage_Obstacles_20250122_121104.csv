@@ -1,0 +1,1333 @@
+record_type,time_sec,color,x,y,z,scenario,count_red,count_green,count_blue,count_total,extra_notes
+clear,1.81,,-3.86,0.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,1.92,,-3.86,0.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.02,,-3.86,0.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.10,,-3.86,0.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.20,,-3.86,0.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.31,,-3.85,0.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.40,,-3.85,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.51,,-3.85,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.72,,-3.84,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.82,,-3.84,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,2.91,,-3.83,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.00,,-3.82,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.11,,-3.81,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.20,,-3.80,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.31,,-3.79,0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.40,,-3.79,0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.53,,-3.79,0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.61,,-3.77,0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.70,,-3.77,0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.82,,-3.77,0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,3.90,,-3.76,0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.00,,-3.74,0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.11,,-3.73,0.02,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.21,,-3.72,0.02,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.31,,-3.70,0.02,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.43,,-3.68,0.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.50,,-3.67,0.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.60,,-3.65,0.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.71,,-3.63,0.00,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.83,,-3.63,0.00,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,4.91,,-3.62,0.00,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.01,,-3.61,-0.00,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.10,,-3.59,-0.00,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.20,,-3.58,-0.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.31,,-3.55,-0.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.40,,-3.55,-0.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.50,,-3.54,-0.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.61,,-3.52,-0.02,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.73,,-3.51,-0.02,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.81,,-3.50,-0.02,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,5.91,,-3.48,-0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.00,,-3.47,-0.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.10,,-3.44,-0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.21,,-3.43,-0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.31,,-3.42,-0.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.40,,-3.41,-0.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.50,,-3.39,-0.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.60,,-3.38,-0.06,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.72,,-3.36,-0.06,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.80,,-3.35,-0.06,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,6.90,,-3.33,-0.07,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.01,,-3.33,-0.07,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.10,,-3.31,-0.08,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.21,,-3.29,-0.08,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.35,,-3.27,-0.09,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.41,,-3.27,-0.09,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.51,,-3.25,-0.10,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.61,,-3.23,-0.10,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.70,,-3.22,-0.10,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.80,,-3.20,-0.11,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,7.91,,-3.19,-0.12,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.01,,-3.19,-0.12,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.10,,-3.17,-0.12,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.20,,-3.15,-0.13,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.31,,-3.14,-0.14,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.40,,-3.12,-0.14,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.51,,-3.10,-0.15,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.60,,-3.09,-0.15,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.70,,-3.06,-0.17,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.85,,-3.05,-0.17,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,8.93,,-3.05,-0.17,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.00,,-3.03,-0.18,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.10,,-3.02,-0.18,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.21,,-3.00,-0.19,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.30,,-2.98,-0.20,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.41,,-2.95,-0.21,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.52,,-2.94,-0.22,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.70,,-2.92,-0.23,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.81,,-2.89,-0.24,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,9.91,,-2.87,-0.25,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.00,,-2.85,-0.26,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.12,,-2.83,-0.27,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.22,,-2.82,-0.27,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.30,,-2.81,-0.28,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.40,,-2.79,-0.29,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.50,,-2.78,-0.30,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.60,,-2.76,-0.31,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.73,,-2.75,-0.31,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.82,,-2.74,-0.32,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,10.90,,-2.74,-0.32,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.00,,-2.72,-0.33,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.11,,-2.70,-0.34,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.20,,-2.68,-0.35,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.32,,-2.67,-0.36,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.41,,-2.67,-0.36,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.50,,-2.65,-0.37,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.60,,-2.63,-0.38,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.72,,-2.62,-0.39,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.81,,-2.61,-0.40,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,11.91,,-2.59,-0.41,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.00,,-2.58,-0.42,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.12,,-2.56,-0.43,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.28,,-2.54,-0.44,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.31,,-2.54,-0.44,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.41,,-2.52,-0.45,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.50,,-2.51,-0.46,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.60,,-2.49,-0.48,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.71,,-2.48,-0.48,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.80,,-2.46,-0.49,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,12.91,,-2.45,-0.50,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.00,,-2.43,-0.51,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.10,,-2.41,-0.53,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.21,,-2.40,-0.53,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.31,,-2.39,-0.54,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.40,,-2.38,-0.55,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.50,,-2.36,-0.56,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.64,,-2.34,-0.58,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.73,,-2.34,-0.58,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.81,,-2.33,-0.59,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,13.91,,-2.32,-0.60,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.00,,-2.30,-0.61,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.11,,-2.29,-0.62,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.21,,-2.27,-0.63,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.30,,-2.26,-0.64,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.40,,-2.25,-0.65,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.50,,-2.23,-0.67,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.61,,-2.23,-0.67,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.70,,-2.21,-0.69,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.81,,-2.21,-0.69,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,14.92,,-2.19,-0.71,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,15.01,,-2.19,-0.71,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,15.12,,-2.17,-0.73,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,15.20,,-2.16,-0.74,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,15.30,,-2.15,-0.75,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,15.41,,-2.14,-0.76,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,15.51,,-2.13,-0.76,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,15.60,,-2.12,-0.77,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,15.96,,-2.10,-0.78,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.00,,-2.09,-0.79,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.11,,-2.07,-0.80,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.22,,-2.06,-0.81,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.30,,-2.04,-0.82,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.41,,-2.04,-0.82,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.52,,-2.04,-0.82,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.60,,-2.01,-0.84,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.71,,-2.00,-0.84,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.80,,-1.99,-0.85,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,16.91,,-1.97,-0.86,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,17.01,,-1.96,-0.86,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+obstacle,17.12,,-1.95,-0.87,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.96 m): steering right
+obstacle,17.21,,-1.95,-0.87,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.96 m): steering right
+obstacle,17.31,,-1.93,-0.88,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.96 m): steering right
+obstacle,17.40,,-1.92,-0.89,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.96 m): steering right
+obstacle,17.52,,-1.90,-0.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.92 m): steering right
+obstacle,17.76,,-1.89,-0.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.92 m): steering right
+obstacle,17.81,,-1.88,-0.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.92 m): steering right
+obstacle,17.92,,-1.87,-0.91,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.92 m): steering right
+obstacle,18.03,,-1.85,-0.92,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.86 m): steering right
+obstacle,18.11,,-1.85,-0.92,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.86 m): steering right
+obstacle,18.21,,-1.84,-0.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.86 m): steering right
+obstacle,18.32,,-1.83,-0.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.86 m): steering right
+obstacle,18.42,,-1.81,-0.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.86 m): steering right
+obstacle,18.58,,-1.81,-0.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.81 m): steering right
+obstacle,18.64,,-1.81,-0.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.81 m): steering right
+obstacle,18.70,,-1.79,-0.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.81 m): steering right
+obstacle,18.80,,-1.76,-0.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.77 m): steering right
+obstacle,18.90,,-1.75,-0.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.77 m): steering right
+obstacle,19.00,,-1.73,-0.99,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.77 m): steering right
+obstacle,19.10,,-1.72,-1.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.77 m): steering right
+obstacle,19.21,,-1.70,-1.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.71 m): steering right
+obstacle,19.33,,-1.69,-1.02,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.71 m): steering right
+obstacle,19.40,,-1.69,-1.02,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.71 m): steering right
+obstacle,19.50,,-1.68,-1.03,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.71 m): steering right
+obstacle,19.61,,-1.66,-1.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.71 m): steering right
+obstacle,19.70,,-1.65,-1.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.66 m): steering right
+obstacle,19.81,,-1.63,-1.05,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.66 m): steering right
+obstacle,19.90,,-1.62,-1.06,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.66 m): steering right
+obstacle,20.01,,-1.60,-1.07,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.62 m): steering right
+obstacle,20.11,,-1.60,-1.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.62 m): steering right
+obstacle,20.23,,-1.60,-1.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.62 m): steering right
+obstacle,20.33,,-1.58,-1.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.62 m): steering right
+obstacle,20.42,,-1.57,-1.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.62 m): steering right
+obstacle,20.50,,-1.55,-1.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.59 m): steering right
+obstacle,20.60,,-1.53,-1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.59 m): steering right
+obstacle,20.70,,-1.53,-1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.59 m): steering right
+obstacle,20.83,,-1.51,-1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.54 m): steering right
+obstacle,20.90,,-1.50,-1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.54 m): steering right
+obstacle,21.01,,-1.49,-1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.54 m): steering right
+obstacle,21.13,,-1.48,-1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.54 m): steering right
+obstacle,21.21,,-1.47,-1.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.54 m): steering right
+obstacle,21.31,,-1.45,-1.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.51 m): steering right
+obstacle,21.43,,-1.45,-1.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.51 m): steering right
+obstacle,21.50,,-1.44,-1.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.51 m): steering right
+obstacle,21.63,,-1.42,-1.20,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.47 m): steering right
+obstacle,21.74,,-1.42,-1.20,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.47 m): steering right
+obstacle,21.81,,-1.40,-1.21,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.47 m): steering right
+obstacle,21.91,,-1.39,-1.22,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.47 m): steering right
+obstacle,22.00,,-1.38,-1.23,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.47 m): steering right
+obstacle,22.10,,-1.36,-1.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,22.20,,-1.35,-1.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,22.30,,-1.33,-1.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.40 m): steering right
+obstacle,22.40,,-1.33,-1.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.40 m): steering right
+obstacle,22.52,,-1.31,-1.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.40 m): steering right
+obstacle,22.60,,-1.29,-1.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.40 m): steering right
+obstacle,22.71,,-1.28,-1.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,22.82,,-1.27,-1.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,22.98,,-1.26,-1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,23.08,,-1.26,-1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,23.13,,-1.26,-1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,23.21,,-1.26,-1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,23.30,,-1.23,-1.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,23.40,,-1.22,-1.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,23.50,,-1.21,-1.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,23.61,,-1.19,-1.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,23.74,,-1.18,-1.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.35 m): steering right
+obstacle,23.85,,-1.17,-1.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.35 m): steering right
+obstacle,23.91,,-1.16,-1.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.35 m): steering right
+obstacle,24.27,,-1.16,-1.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.35 m): steering right
+obstacle,24.30,,-1.15,-1.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.35 m): steering right
+obstacle,24.40,,-1.14,-1.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.35 m): steering right
+obstacle,24.55,,-1.12,-1.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,24.63,,-1.11,-1.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,24.71,,-1.10,-1.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,24.81,,-1.08,-1.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,24.90,,-1.07,-1.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,25.00,,-1.05,-1.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,25.10,,-1.04,-1.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,25.20,,-1.02,-1.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,25.30,,-1.01,-1.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,25.40,,-1.00,-1.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.38 m): steering right
+obstacle,25.51,,-0.99,-1.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,25.60,,-0.98,-1.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,25.70,,-0.96,-1.49,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,25.82,,-0.94,-1.50,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.46 m): steering right
+obstacle,25.91,,-0.93,-1.51,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.46 m): steering right
+obstacle,26.00,,-0.92,-1.52,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.46 m): steering right
+obstacle,26.11,,-0.90,-1.53,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.46 m): steering right
+obstacle,26.21,,-0.89,-1.54,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.50 m): steering right
+obstacle,26.30,,-0.87,-1.55,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.50 m): steering right
+obstacle,26.52,,-0.86,-1.56,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.50 m): steering right
+obstacle,26.61,,-0.85,-1.57,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.50 m): steering right
+clear,26.71,,-0.83,-1.58,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,26.80,,-0.81,-1.59,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,26.91,,-0.80,-1.60,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.01,,-0.79,-1.61,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.10,,-0.77,-1.62,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.20,,-0.76,-1.63,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.30,,-0.74,-1.65,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.41,,-0.73,-1.65,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.51,,-0.72,-1.66,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.61,,-0.71,-1.67,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.70,,-0.71,-1.67,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.81,,-0.69,-1.68,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,27.94,,-0.68,-1.69,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.00,,-0.67,-1.70,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.10,,-0.66,-1.71,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.20,,-0.64,-1.72,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.30,,-0.63,-1.73,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.43,,-0.61,-1.75,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.53,,-0.60,-1.75,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.60,,-0.60,-1.76,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.72,,-0.58,-1.77,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.80,,-0.58,-1.78,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,28.90,,-0.56,-1.80,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.01,,-0.55,-1.81,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.10,,-0.53,-1.82,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.21,,-0.52,-1.83,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.30,,-0.50,-1.84,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.43,,-0.48,-1.85,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.52,,-0.47,-1.86,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.60,,-0.45,-1.87,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.71,,-0.44,-1.88,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.80,,-0.42,-1.90,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,29.93,,-0.39,-1.91,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.01,,-0.39,-1.92,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.10,,-0.37,-1.93,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.20,,-0.36,-1.93,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.30,,-0.34,-1.94,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.41,,-0.33,-1.95,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.51,,-0.32,-1.96,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.60,,-0.31,-1.96,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.72,,-0.30,-1.97,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.83,,-0.29,-1.98,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,30.91,,-0.27,-1.99,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,31.01,,-0.27,-1.99,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,31.11,,-0.26,-2.00,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,31.53,,-0.24,-2.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,31.60,,-0.23,-2.01,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,31.70,,-0.21,-2.03,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,31.80,,-0.20,-2.04,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,31.93,,-0.18,-2.05,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.01,,-0.17,-2.06,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.10,,-0.16,-2.07,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.20,,-0.15,-2.08,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.34,,-0.13,-2.09,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.40,,-0.11,-2.10,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.51,,-0.10,-2.11,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.61,,-0.08,-2.12,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.71,,-0.07,-2.13,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.80,,-0.05,-2.14,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,32.92,,-0.04,-2.15,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,33.00,,-0.02,-2.16,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,33.10,,-0.00,-2.18,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,33.22,,0.01,-2.19,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,33.31,,0.03,-2.20,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,33.40,,0.04,-2.21,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,33.51,,0.06,-2.22,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,33.69,,0.08,-2.24,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,33.90,,0.08,-2.24,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,34.01,,0.12,-2.27,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,34.11,,0.13,-2.28,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,34.20,,0.16,-2.29,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+obstacle,34.37,,0.17,-2.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.99 m): steering right
+obstacle,34.43,,0.18,-2.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.99 m): steering right
+obstacle,34.51,,0.18,-2.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.99 m): steering right
+obstacle,34.61,,0.20,-2.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.99 m): steering right
+obstacle,34.71,,0.21,-2.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.94 m): steering right
+obstacle,34.80,,0.22,-2.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.94 m): steering right
+obstacle,34.92,,0.24,-2.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.94 m): steering right
+obstacle,35.01,,0.24,-2.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.89 m): steering right
+obstacle,35.11,,0.26,-2.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.89 m): steering right
+obstacle,35.20,,0.27,-2.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.89 m): steering right
+obstacle,35.30,,0.28,-2.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.89 m): steering right
+obstacle,35.43,,0.30,-2.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.85 m): steering right
+obstacle,35.61,,0.31,-2.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.85 m): steering right
+obstacle,35.70,,0.33,-2.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.85 m): steering right
+obstacle,35.81,,0.34,-2.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.79 m): steering right
+obstacle,35.90,,0.35,-2.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.79 m): steering right
+obstacle,36.00,,0.37,-2.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.79 m): steering right
+obstacle,36.12,,0.38,-2.49,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.76 m): steering right
+obstacle,36.20,,0.39,-2.50,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.76 m): steering right
+obstacle,36.30,,0.41,-2.52,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.76 m): steering right
+obstacle,36.40,,0.42,-2.53,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.70 m): steering right
+obstacle,36.53,,0.43,-2.53,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.70 m): steering right
+obstacle,36.60,,0.45,-2.55,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.70 m): steering right
+obstacle,36.70,,0.46,-2.55,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.70 m): steering right
+obstacle,36.82,,0.47,-2.56,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.66 m): steering right
+obstacle,36.90,,0.49,-2.58,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.66 m): steering right
+obstacle,37.00,,0.50,-2.59,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.66 m): steering right
+obstacle,37.12,,0.51,-2.60,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.63 m): steering right
+obstacle,37.21,,0.52,-2.60,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.63 m): steering right
+obstacle,37.31,,0.53,-2.62,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.63 m): steering right
+obstacle,37.40,,0.55,-2.63,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.63 m): steering right
+obstacle,37.53,,0.56,-2.64,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.58 m): steering right
+obstacle,37.62,,0.57,-2.65,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.58 m): steering right
+obstacle,37.70,,0.59,-2.66,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.58 m): steering right
+obstacle,37.81,,0.60,-2.67,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.53 m): steering right
+obstacle,37.90,,0.62,-2.69,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.53 m): steering right
+obstacle,38.01,,0.64,-2.70,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.53 m): steering right
+obstacle,38.11,,0.64,-2.70,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.49 m): steering right
+obstacle,38.21,,0.66,-2.71,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.49 m): steering right
+obstacle,38.30,,0.68,-2.73,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.49 m): steering right
+obstacle,38.45,,0.71,-2.74,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.45 m): steering right
+obstacle,38.51,,0.71,-2.75,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.45 m): steering right
+obstacle,38.61,,0.73,-2.75,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.45 m): steering right
+obstacle,38.75,,0.74,-2.76,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,38.81,,0.74,-2.76,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,38.90,,0.76,-2.77,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,39.00,,0.77,-2.79,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,39.12,,0.79,-2.80,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,39.22,,0.80,-2.81,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,39.30,,0.82,-2.81,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,39.40,,0.84,-2.82,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,39.50,,0.85,-2.83,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,39.62,,0.87,-2.85,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,39.70,,0.88,-2.85,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,39.82,,0.89,-2.86,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.34 m): steering right
+obstacle,39.90,,0.91,-2.87,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.34 m): steering right
+obstacle,40.00,,0.92,-2.88,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.34 m): steering right
+obstacle,40.10,,0.95,-2.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.34 m): steering right
+obstacle,40.22,,0.96,-2.91,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.34 m): steering right
+obstacle,40.30,,0.97,-2.92,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.34 m): steering right
+obstacle,40.40,,0.99,-2.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.34 m): steering right
+obstacle,40.50,,1.01,-2.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.34 m): steering right
+obstacle,40.62,,1.02,-2.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,40.71,,1.03,-2.97,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,40.81,,1.05,-2.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,40.90,,1.06,-2.99,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.36 m): steering right
+obstacle,41.01,,1.09,-3.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,41.14,,1.09,-3.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,41.21,,1.10,-3.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.37 m): steering right
+obstacle,41.31,,1.12,-3.02,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.40 m): steering right
+obstacle,41.40,,1.13,-3.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.40 m): steering right
+obstacle,41.50,,1.15,-3.05,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.40 m): steering right
+obstacle,41.61,,1.16,-3.06,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,41.71,,1.17,-3.07,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,41.80,,1.19,-3.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,41.91,,1.20,-3.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.42 m): steering right
+obstacle,42.00,,1.21,-3.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.46 m): steering right
+obstacle,42.10,,1.23,-3.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.46 m): steering right
+obstacle,42.20,,1.25,-3.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.46 m): steering right
+clear,42.35,,1.26,-3.12,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,42.41,,1.28,-3.13,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,42.50,,1.29,-3.13,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,42.60,,1.31,-3.14,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,42.71,,1.33,-3.16,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,42.80,,1.35,-3.17,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,42.91,,1.36,-3.18,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.00,,1.38,-3.19,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.11,,1.39,-3.20,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.20,,1.41,-3.21,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.30,,1.43,-3.21,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.40,,1.44,-3.22,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.51,,1.45,-3.23,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.60,,1.47,-3.24,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.72,,1.48,-3.25,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.81,,1.49,-3.25,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,43.90,,1.50,-3.26,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.00,,1.53,-3.27,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.11,,1.53,-3.28,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.20,,1.54,-3.28,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.31,,1.56,-3.29,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.41,,1.57,-3.30,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.50,,1.59,-3.31,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.61,,1.60,-3.32,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.70,,1.62,-3.33,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.81,,1.63,-3.34,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,44.90,,1.65,-3.35,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.02,,1.66,-3.36,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.10,,1.68,-3.37,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.21,,1.69,-3.38,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.48,,1.70,-3.39,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.50,,1.70,-3.39,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.60,,1.72,-3.40,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.71,,1.73,-3.41,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.80,,1.75,-3.42,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,45.91,,1.76,-3.44,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.02,,1.77,-3.45,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.16,,1.79,-3.46,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.20,,1.79,-3.46,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.31,,1.81,-3.48,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.40,,1.81,-3.48,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.50,,1.82,-3.49,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.60,,1.83,-3.49,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.70,,1.83,-3.49,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.81,,1.84,-3.50,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,46.92,,1.84,-3.50,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.01,,1.84,-3.50,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.10,,1.84,-3.51,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.20,,1.85,-3.51,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.30,,1.85,-3.52,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.43,,1.86,-3.52,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.50,,1.86,-3.53,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.60,,1.86,-3.53,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.70,,1.87,-3.54,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.81,,1.87,-3.54,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,47.92,,1.88,-3.54,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.00,,1.89,-3.55,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.10,,1.89,-3.55,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.21,,1.90,-3.56,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.31,,1.91,-3.56,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.41,,1.92,-3.57,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.50,,1.93,-3.57,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.61,,1.94,-3.58,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.71,,1.96,-3.58,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.80,,1.96,-3.58,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,48.98,,1.97,-3.59,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.03,,1.98,-3.59,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.11,,1.98,-3.59,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.20,,2.00,-3.60,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.31,,2.01,-3.61,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.41,,2.03,-3.62,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.54,,2.04,-3.63,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.61,,2.05,-3.63,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.70,,2.06,-3.64,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.80,,2.07,-3.64,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,49.90,,2.09,-3.65,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.03,,2.10,-3.66,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.10,,2.12,-3.67,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.21,,2.13,-3.67,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.30,,2.15,-3.68,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.43,,2.17,-3.70,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.50,,2.19,-3.70,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.61,,2.20,-3.71,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.70,,2.21,-3.72,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.80,,2.22,-3.72,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,50.92,,2.23,-3.73,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,51.00,,2.24,-3.73,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,51.12,,2.24,-3.74,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,51.20,,2.25,-3.74,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+clear,51.30,,2.25,-3.74,0.00,AdaptiveCoverage_Obstacles,,,,,"Path clear, no avoidance needed."
+obstacle,51.43,,2.26,-3.75,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.99 m): steering left
+obstacle,51.53,,2.26,-3.75,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.99 m): steering left
+obstacle,51.60,,2.26,-3.75,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.99 m): steering left
+obstacle,51.70,,2.27,-3.75,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.99 m): steering left
+obstacle,51.80,,2.27,-3.76,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.99 m): steering left
+obstacle,51.90,,2.28,-3.76,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.99 m): steering left
+obstacle,52.03,,2.28,-3.76,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.16,,2.28,-3.77,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.23,,2.28,-3.77,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.34,,2.29,-3.77,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.42,,2.29,-3.77,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.53,,2.29,-3.77,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.70,,2.29,-3.78,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.75,,2.29,-3.78,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.81,,2.30,-3.78,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,52.91,,2.30,-3.78,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,53.00,,2.30,-3.79,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.98 m): steering left
+obstacle,53.17,,2.30,-3.79,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.97 m): steering left
+obstacle,53.27,,2.30,-3.79,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.97 m): steering left
+obstacle,53.33,,2.31,-3.79,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.97 m): steering left
+obstacle,53.41,,2.31,-3.79,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.97 m): steering left
+obstacle,53.50,,2.32,-3.79,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.97 m): steering left
+obstacle,53.63,,2.32,-3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.97 m): steering left
+obstacle,53.86,,2.32,-3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.96 m): steering left
+obstacle,53.98,,2.32,-3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.96 m): steering left
+obstacle,54.11,,2.32,-3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.96 m): steering left
+obstacle,54.23,,2.33,-3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.96 m): steering left
+obstacle,54.30,,2.34,-3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.96 m): steering left
+obstacle,54.41,,2.35,-3.81,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.96 m): steering left
+obstacle,54.50,,2.36,-3.81,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.96 m): steering left
+obstacle,54.61,,2.37,-3.82,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.96 m): steering left
+obstacle,54.74,,2.38,-3.82,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.93 m): steering left
+obstacle,54.81,,2.38,-3.82,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.93 m): steering left
+obstacle,54.91,,2.40,-3.83,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.93 m): steering left
+obstacle,55.01,,2.41,-3.84,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.93 m): steering left
+obstacle,55.11,,2.43,-3.84,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.92 m): steering left
+obstacle,55.20,,2.44,-3.85,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.92 m): steering left
+obstacle,55.30,,2.46,-3.86,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.92 m): steering left
+obstacle,55.42,,2.47,-3.86,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.89 m): steering left
+obstacle,55.51,,2.49,-3.87,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.89 m): steering left
+obstacle,55.61,,2.49,-3.87,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.89 m): steering left
+obstacle,55.70,,2.50,-3.88,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.89 m): steering left
+obstacle,55.84,,2.52,-3.89,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.87 m): steering left
+obstacle,55.90,,2.53,-3.89,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.87 m): steering left
+obstacle,56.00,,2.54,-3.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.87 m): steering left
+obstacle,56.11,,2.55,-3.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.87 m): steering left
+obstacle,56.23,,2.55,-3.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.86 m): steering left
+obstacle,56.30,,2.56,-3.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.86 m): steering left
+obstacle,56.43,,2.56,-3.91,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.86 m): steering left
+obstacle,56.50,,2.58,-3.91,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.86 m): steering left
+obstacle,56.63,,2.58,-3.91,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.86 m): steering left
+obstacle,56.73,,2.58,-3.91,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.86 m): steering left
+obstacle,56.81,,2.59,-3.92,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.86 m): steering left
+obstacle,56.92,,2.60,-3.92,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.85 m): steering left
+obstacle,57.03,,2.60,-3.92,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.85 m): steering left
+obstacle,57.14,,2.60,-3.92,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.85 m): steering left
+obstacle,57.20,,2.61,-3.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.85 m): steering left
+obstacle,57.31,,2.62,-3.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.85 m): steering left
+obstacle,57.41,,2.63,-3.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.83 m): steering left
+obstacle,57.52,,2.63,-3.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.83 m): steering left
+obstacle,57.60,,2.63,-3.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.83 m): steering left
+obstacle,57.72,,2.64,-3.94,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.83 m): steering left
+obstacle,57.82,,2.64,-3.94,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.83 m): steering left
+obstacle,57.93,,2.64,-3.94,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.83 m): steering left
+obstacle,58.01,,2.64,-3.94,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.82 m): steering left
+obstacle,58.13,,2.65,-3.94,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.82 m): steering left
+obstacle,58.20,,2.65,-3.94,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.82 m): steering left
+obstacle,58.31,,2.66,-3.94,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.82 m): steering left
+obstacle,58.52,,2.66,-3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.81 m): steering left
+obstacle,58.60,,2.66,-3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.81 m): steering left
+obstacle,58.70,,2.67,-3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.81 m): steering left
+obstacle,58.81,,2.67,-3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.80 m): steering left
+obstacle,58.90,,2.67,-3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.80 m): steering left
+obstacle,59.00,,2.68,-3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.80 m): steering left
+obstacle,59.11,,2.68,-3.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.80 m): steering left
+obstacle,59.31,,2.69,-3.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.80 m): steering left
+obstacle,59.41,,2.69,-3.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.80 m): steering left
+obstacle,59.50,,2.70,-3.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.80 m): steering left
+obstacle,59.61,,2.70,-3.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,59.70,,2.70,-3.97,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,59.80,,2.71,-3.97,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,59.91,,2.71,-3.97,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,60.01,,2.72,-3.97,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,60.10,,2.72,-3.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,60.20,,2.73,-3.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,60.30,,2.73,-3.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,60.41,,2.74,-3.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,60.53,,2.74,-3.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.78 m): steering left
+obstacle,60.61,,2.75,-3.99,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.77 m): steering left
+obstacle,60.70,,2.75,-3.99,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.77 m): steering left
+obstacle,60.80,,2.75,-3.99,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.77 m): steering left
+obstacle,60.95,,2.76,-4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.04,,2.76,-4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.11,,2.76,-4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.20,,2.77,-4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.30,,2.77,-4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.40,,2.78,-4.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.52,,2.79,-4.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.61,,2.80,-4.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.70,,2.81,-4.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.81,,2.82,-4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.76 m): steering left
+obstacle,61.90,,2.84,-4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.75 m): steering left
+obstacle,62.00,,2.85,-4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.75 m): steering left
+obstacle,62.14,,2.86,-4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.75 m): steering left
+obstacle,62.21,,2.87,-4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.75 m): steering left
+obstacle,62.33,,2.88,-4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.74 m): steering left
+obstacle,62.46,,2.89,-4.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.74 m): steering left
+obstacle,62.52,,2.90,-4.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.74 m): steering left
+obstacle,62.61,,2.90,-4.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.74 m): steering left
+obstacle,62.71,,2.91,-4.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.74 m): steering left
+obstacle,62.81,,2.93,-4.05,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.72 m): steering left
+obstacle,62.91,,2.94,-4.05,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.72 m): steering left
+obstacle,63.01,,2.96,-4.06,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.72 m): steering left
+obstacle,63.10,,2.97,-4.06,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.72 m): steering left
+obstacle,63.21,,2.99,-4.07,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.69 m): steering left
+obstacle,63.30,,3.01,-4.07,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.69 m): steering left
+obstacle,63.43,,3.03,-4.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.68 m): steering left
+obstacle,63.50,,3.04,-4.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.68 m): steering left
+obstacle,63.61,,3.06,-4.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.68 m): steering left
+obstacle,63.72,,3.07,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.68 m): steering left
+obstacle,63.81,,3.08,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.68 m): steering left
+obstacle,63.92,,3.09,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.67 m): steering left
+obstacle,64.00,,3.10,-4.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.67 m): steering left
+obstacle,64.10,,3.11,-4.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.67 m): steering left
+obstacle,64.21,,3.12,-4.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,64.30,,3.12,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,64.40,,3.13,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,64.52,,3.14,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.66 m): steering left
+obstacle,64.61,,3.14,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.66 m): steering left
+obstacle,64.71,,3.15,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.66 m): steering left
+obstacle,64.80,,3.15,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,64.90,,3.16,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,65.00,,3.16,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,65.13,,3.17,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,65.20,,3.17,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,65.30,,3.18,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.65 m): steering left
+obstacle,65.41,,3.18,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.64 m): steering left
+obstacle,65.50,,3.19,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.64 m): steering left
+obstacle,65.60,,3.19,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.64 m): steering left
+obstacle,65.70,,3.20,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.64 m): steering left
+obstacle,65.80,,3.20,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.63 m): steering left
+obstacle,65.90,,3.21,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.63 m): steering left
+obstacle,66.01,,3.21,-4.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.63 m): steering left
+obstacle,66.12,,3.22,-4.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.63 m): steering left
+obstacle,66.20,,3.22,-4.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.63 m): steering left
+obstacle,66.30,,3.23,-4.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.63 m): steering left
+obstacle,66.43,,3.23,-4.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.63 m): steering left
+obstacle,66.50,,3.24,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.63 m): steering left
+obstacle,66.61,,3.24,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.62 m): steering left
+obstacle,66.70,,3.25,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.62 m): steering left
+obstacle,66.81,,3.25,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.62 m): steering left
+obstacle,66.91,,3.26,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,67.01,,3.26,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,67.10,,3.27,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,67.20,,3.27,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,67.32,,3.28,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,67.41,,3.28,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,67.50,,3.29,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.62 m): steering left
+obstacle,67.60,,3.29,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.62 m): steering left
+obstacle,67.70,,3.30,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.62 m): steering left
+obstacle,67.83,,3.30,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.62 m): steering left
+obstacle,67.91,,3.31,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.60 m): steering left
+obstacle,68.00,,3.31,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.60 m): steering left
+obstacle,68.11,,3.31,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.60 m): steering left
+obstacle,68.25,,3.32,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,68.31,,3.32,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,68.42,,3.33,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,68.50,,3.33,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,68.61,,3.34,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,68.70,,3.34,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.61 m): steering left
+obstacle,68.85,,3.35,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.60 m): steering left
+obstacle,68.98,,3.35,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.60 m): steering left
+obstacle,69.05,,3.35,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.60 m): steering left
+obstacle,69.11,,3.36,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,69.21,,3.37,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,69.32,,3.37,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,69.42,,3.38,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,69.50,,3.39,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,69.60,,3.39,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,69.73,,3.40,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,69.80,,3.40,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,69.91,,3.41,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,70.00,,3.42,-4.20,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.59 m): steering left
+obstacle,70.14,,3.43,-4.20,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.57 m): steering left
+obstacle,70.20,,3.44,-4.20,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.57 m): steering left
+obstacle,70.31,,3.45,-4.20,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.57 m): steering left
+obstacle,70.41,,3.47,-4.21,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.56 m): steering left
+obstacle,70.50,,3.48,-4.21,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.56 m): steering left
+obstacle,70.60,,3.49,-4.22,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.56 m): steering left
+obstacle,70.71,,3.51,-4.22,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.55 m): steering left
+obstacle,70.83,,3.52,-4.22,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.55 m): steering left
+obstacle,70.90,,3.53,-4.23,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.55 m): steering left
+obstacle,71.02,,3.54,-4.23,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.55 m): steering left
+obstacle,71.13,,3.55,-4.23,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.54 m): steering left
+obstacle,71.21,,3.56,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.54 m): steering left
+obstacle,71.31,,3.58,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.54 m): steering left
+obstacle,71.42,,3.59,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,71.52,,3.60,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,71.60,,3.61,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,71.76,,3.61,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,71.83,,3.61,-4.25,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,71.91,,3.62,-4.25,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,72.01,,3.63,-4.25,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,72.11,,3.63,-4.25,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,72.20,,3.64,-4.25,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.52 m): steering left
+obstacle,72.30,,3.65,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.51 m): steering left
+obstacle,72.42,,3.65,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.51 m): steering left
+obstacle,72.51,,3.66,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.51 m): steering left
+obstacle,72.62,,3.66,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,72.71,,3.66,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,72.82,,3.67,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,72.90,,3.68,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.01,,3.68,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.10,,3.69,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.20,,3.69,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.30,,3.70,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.41,,3.70,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.50,,3.71,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.65,,3.71,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.76,,3.71,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.82,,3.72,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,73.90,,3.72,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,74.00,,3.73,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,74.18,,3.73,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,74.20,,3.74,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,74.30,,3.74,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,74.40,,3.75,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,74.51,,3.76,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.50 m): steering left
+obstacle,74.61,,3.77,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.49 m): steering left
+obstacle,74.72,,3.79,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.49 m): steering left
+obstacle,74.84,,3.79,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.49 m): steering left
+obstacle,74.90,,3.80,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.49 m): steering left
+obstacle,75.02,,3.81,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,75.10,,3.82,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,75.21,,3.83,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,75.30,,3.83,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,75.42,,3.84,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,75.52,,3.84,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,75.60,,3.85,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,75.71,,3.86,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,75.80,,3.86,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,75.90,,3.87,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,76.01,,3.87,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,76.10,,3.88,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,76.21,,3.88,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,76.30,,3.89,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,76.44,,3.90,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,76.52,,3.90,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,76.60,,3.91,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.47 m): steering left
+obstacle,76.70,,3.92,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.47 m): steering left
+obstacle,76.80,,3.93,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.47 m): steering left
+obstacle,76.91,,3.95,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,77.00,,3.96,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,77.10,,3.98,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,77.20,,4.00,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,77.30,,4.01,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,77.40,,4.03,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,77.50,,4.05,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,77.62,,4.06,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,77.71,,4.08,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,77.81,,4.08,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,77.90,,4.10,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,78.01,,4.13,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,78.11,,4.15,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,78.21,,4.15,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,78.30,,4.17,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,78.41,,4.19,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,78.51,,4.20,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,78.61,,4.23,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,78.70,,4.25,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,78.81,,4.26,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,78.92,,4.28,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,79.01,,4.30,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,79.10,,4.32,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,79.22,,4.34,-4.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,79.31,,4.35,-4.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,79.40,,4.37,-4.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,79.50,,4.39,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,79.65,,4.40,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,79.72,,4.40,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,79.81,,4.41,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,79.90,,4.42,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,80.00,,4.43,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,80.10,,4.43,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,80.20,,4.43,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,80.30,,4.44,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,80.40,,4.44,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,80.50,,4.45,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,80.61,,4.45,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,80.70,,4.46,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,80.80,,4.46,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,80.91,,4.47,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,81.07,,4.47,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,81.13,,4.47,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,81.20,,4.48,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,81.30,,4.48,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,81.42,,4.49,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,81.50,,4.50,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,81.60,,4.50,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,81.70,,4.51,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,81.81,,4.51,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,81.91,,4.51,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.00,,4.52,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.10,,4.52,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.20,,4.53,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.31,,4.53,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.40,,4.54,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.51,,4.54,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.61,,4.55,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.70,,4.55,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,82.83,,4.56,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,82.91,,4.56,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.02,,4.57,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.13,,4.57,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.20,,4.58,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.30,,4.58,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.42,,4.59,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.50,,4.59,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.61,,4.60,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.71,,4.60,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.82,,4.61,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,83.91,,4.61,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,84.00,,4.62,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,84.11,,4.62,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,84.21,,4.62,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,84.30,,4.63,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,84.41,,4.64,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,84.50,,4.64,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,84.60,,4.65,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,84.71,,4.65,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,84.80,,4.66,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,84.91,,4.66,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,85.01,,4.67,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.11,,4.67,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.20,,4.68,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.31,,4.68,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.43,,4.69,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.51,,4.69,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.60,,4.69,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.71,,4.70,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.83,,4.70,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,85.90,,4.71,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,86.00,,4.71,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,86.11,,4.72,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,86.20,,4.72,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,86.32,,4.73,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,86.40,,4.73,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,86.50,,4.73,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,86.61,,4.74,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,86.71,,4.75,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,86.80,,4.75,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,86.90,,4.75,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,87.01,,4.76,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,87.12,,4.76,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,87.20,,4.77,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,87.30,,4.77,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,87.40,,4.78,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,87.52,,4.78,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,87.60,,4.79,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,87.72,,4.79,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,87.80,,4.80,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,87.90,,4.80,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,88.01,,4.81,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,88.11,,4.81,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,88.20,,4.81,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,88.30,,4.82,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,88.40,,4.82,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,88.51,,4.83,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,88.61,,4.83,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,88.71,,4.84,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,88.81,,4.84,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,88.90,,4.84,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,89.01,,4.85,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,89.11,,4.85,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,89.20,,4.86,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,89.30,,4.86,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,89.41,,4.87,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,89.51,,4.87,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,89.60,,4.88,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,89.71,,4.88,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,89.80,,4.89,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,89.91,,4.89,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,90.01,,4.90,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,90.10,,4.90,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,90.20,,4.91,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,90.31,,4.91,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,90.40,,4.92,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,90.50,,4.92,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,90.60,,4.93,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,90.71,,4.93,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,90.80,,4.94,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,90.90,,4.94,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,91.00,,4.95,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,91.10,,4.95,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,91.20,,4.96,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,91.31,,4.96,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,91.40,,4.97,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,91.50,,4.97,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,91.61,,4.98,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,91.71,,4.98,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,91.80,,4.99,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,91.91,,4.99,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,92.01,,5.00,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,92.10,,5.00,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,92.21,,5.01,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,92.31,,5.02,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,92.41,,5.02,-4.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,92.51,,5.03,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,92.60,,5.03,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,92.72,,5.04,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,92.82,,5.04,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,92.92,,5.04,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,93.01,,5.05,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,93.11,,5.06,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,93.22,,5.06,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,93.30,,5.06,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,93.41,,5.07,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,93.51,,5.07,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,93.60,,5.08,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,93.70,,5.08,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,93.85,,5.08,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,93.92,,5.08,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,94.01,,5.09,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,94.11,,5.09,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,94.20,,5.10,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,94.39,,5.10,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,94.41,,5.11,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,94.50,,5.11,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,94.60,,5.11,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,94.71,,5.12,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,94.80,,5.12,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,94.95,,5.13,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,95.01,,5.13,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,95.15,,5.14,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,95.21,,5.14,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,95.30,,5.15,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,95.42,,5.15,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,95.51,,5.16,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,95.64,,5.16,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,95.72,,5.16,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,95.80,,5.16,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,95.91,,5.17,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.04,,5.17,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.10,,5.17,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.21,,5.18,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.30,,5.18,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.40,,5.19,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.51,,5.19,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.60,,5.20,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.70,,5.20,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.80,,5.21,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.32 m): steering left
+obstacle,96.92,,5.21,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,97.01,,5.22,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,97.10,,5.22,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,97.20,,5.23,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,97.31,,5.23,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,97.41,,5.24,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,97.51,,5.24,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,97.60,,5.25,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,97.70,,5.25,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,97.83,,5.26,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,97.92,,5.26,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,98.00,,5.27,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,98.15,,5.27,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,98.23,,5.28,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,98.32,,5.28,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,98.40,,5.28,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,98.52,,5.29,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,98.63,,5.29,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,98.70,,5.30,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,98.82,,5.30,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,98.90,,5.31,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,99.03,,5.31,-4.47,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,99.10,,5.32,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,99.22,,5.32,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,99.30,,5.33,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,99.41,,5.33,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,99.51,,5.34,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,99.61,,5.34,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,99.72,,5.35,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,99.80,,5.35,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,99.91,,5.36,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,100.01,,5.36,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,100.10,,5.36,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,100.25,,5.37,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,100.30,,5.37,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,100.40,,5.37,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,100.51,,5.38,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,100.61,,5.39,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,100.71,,5.39,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,100.80,,5.39,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,100.91,,5.40,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.03,,5.40,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.10,,5.41,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.21,,5.41,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.32,,5.42,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.40,,5.42,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.50,,5.42,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.61,,5.43,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.76,,5.43,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.81,,5.44,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,101.91,,5.44,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,102.00,,5.45,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,102.12,,5.46,-4.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,102.24,,5.46,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,102.31,,5.47,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,102.40,,5.47,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,102.51,,5.48,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.35 m): steering left
+obstacle,102.62,,5.48,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,102.70,,5.48,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,102.80,,5.49,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,102.90,,5.49,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,103.00,,5.50,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,103.10,,5.51,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,103.23,,5.51,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,103.31,,5.52,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,103.40,,5.52,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,103.50,,5.53,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,103.62,,5.53,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,103.75,,5.54,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,103.82,,5.54,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,103.91,,5.54,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,104.00,,5.55,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,104.13,,5.55,-4.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,104.24,,5.56,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,104.31,,5.56,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,104.40,,5.57,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,104.50,,5.57,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,104.62,,5.58,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,104.71,,5.58,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,104.81,,5.59,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,104.90,,5.59,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,105.01,,5.60,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,105.10,,5.60,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,105.20,,5.61,-4.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.37 m): steering left
+obstacle,105.31,,5.61,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,105.40,,5.62,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,105.55,,5.62,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,105.63,,5.62,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,105.71,,5.63,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,105.80,,5.64,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,105.91,,5.64,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,106.01,,5.65,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,106.10,,5.65,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,106.21,,5.66,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,106.31,,5.66,-4.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,106.41,,5.67,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,106.50,,5.67,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,106.62,,5.68,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,106.80,,5.68,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,106.90,,5.68,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,107.02,,5.69,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,107.13,,5.69,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,107.32,,5.69,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,107.49,,5.70,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,107.60,,5.70,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,107.73,,5.70,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,107.81,,5.70,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,107.92,,5.71,-4.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,108.03,,5.71,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,108.12,,5.71,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,108.21,,5.72,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.41 m): steering left
+obstacle,108.30,,5.72,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,108.62,,5.72,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,108.70,,5.73,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,108.80,,5.73,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,108.93,,5.73,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,109.02,,5.74,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,109.10,,5.74,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,109.20,,5.75,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,109.34,,5.75,-4.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,109.41,,5.76,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,109.51,,5.76,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,109.60,,5.77,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,109.70,,5.77,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,109.81,,5.78,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,109.92,,5.78,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,110.00,,5.79,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,110.10,,5.79,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,110.21,,5.80,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,110.32,,5.80,-4.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,110.40,,5.80,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,110.50,,5.81,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,110.61,,5.82,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,110.70,,5.82,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,110.81,,5.82,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,110.90,,5.83,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,111.01,,5.84,-4.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,111.10,,5.84,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,111.20,,5.85,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,111.31,,5.85,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,111.41,,5.86,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,111.50,,5.86,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.45 m): steering left
+obstacle,111.61,,5.87,-4.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,111.71,,5.87,-4.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,111.80,,5.88,-4.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,111.90,,5.88,-4.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,112.00,,5.89,-4.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,112.11,,5.89,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,112.20,,5.90,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,112.31,,5.90,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,112.40,,5.91,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,112.52,,5.91,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.49 m): steering left
+obstacle,112.81,,5.92,-4.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.49 m): steering left
+obstacle,112.95,,5.92,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.49 m): steering left
+obstacle,113.07,,5.92,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.49 m): steering left
+obstacle,113.11,,5.93,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,113.20,,5.93,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,113.35,,5.94,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,113.41,,5.94,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.48 m): steering left
+obstacle,113.51,,5.94,-4.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,113.61,,5.95,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,113.74,,5.95,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,113.82,,5.95,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.46 m): steering left
+obstacle,113.92,,5.96,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,114.00,,5.96,-4.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,114.11,,5.97,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.44 m): steering left
+obstacle,114.21,,5.97,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,114.30,,5.97,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,114.40,,5.98,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.43 m): steering left
+obstacle,114.52,,5.98,-4.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,114.60,,5.99,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,114.71,,5.99,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.42 m): steering left
+obstacle,114.81,,6.00,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,114.92,,6.00,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,115.01,,6.01,-4.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.40 m): steering left
+obstacle,115.12,,6.01,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,115.20,,6.02,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,115.30,,6.02,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.39 m): steering left
+obstacle,115.41,,6.03,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,115.58,,6.03,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,115.62,,6.03,-4.31,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,115.71,,6.04,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.38 m): steering left
+obstacle,115.80,,6.04,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,115.90,,6.05,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,116.07,,6.06,-4.30,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.36 m): steering left
+obstacle,116.13,,6.06,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,116.25,,6.06,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,116.30,,6.07,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.34 m): steering left
+obstacle,116.40,,6.07,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,116.53,,6.08,-4.29,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,116.61,,6.08,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,116.71,,6.09,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.33 m): steering left
+obstacle,116.81,,6.09,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,116.91,,6.09,-4.28,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,117.00,,6.10,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.31 m): steering left
+obstacle,117.12,,6.11,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.30 m): steering left
+obstacle,117.21,,6.11,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.30 m): steering left
+obstacle,117.30,,6.11,-4.27,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.30 m): steering left
+obstacle,117.40,,6.12,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.28 m): steering left
+obstacle,117.50,,6.13,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.28 m): steering left
+obstacle,117.61,,6.13,-4.26,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.28 m): steering left
+obstacle,117.71,,6.14,-4.25,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.27 m): steering left
+obstacle,117.80,,6.14,-4.25,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.27 m): steering left
+obstacle,117.90,,6.15,-4.25,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.27 m): steering left
+obstacle,118.02,,6.15,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.25 m): steering left
+obstacle,118.11,,6.16,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.25 m): steering left
+obstacle,118.20,,6.16,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.25 m): steering left
+obstacle,118.30,,6.17,-4.24,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.24 m): steering left
+obstacle,118.40,,6.17,-4.23,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.24 m): steering left
+obstacle,118.51,,6.18,-4.23,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.24 m): steering left
+obstacle,118.61,,6.18,-4.23,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.23 m): steering left
+obstacle,118.71,,6.18,-4.23,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.23 m): steering left
+obstacle,118.80,,6.18,-4.22,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.23 m): steering left
+obstacle,118.90,,6.19,-4.22,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.23 m): steering left
+obstacle,119.00,,6.19,-4.22,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.22 m): steering left
+obstacle,119.11,,6.20,-4.21,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.22 m): steering left
+obstacle,119.22,,6.20,-4.21,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.22 m): steering left
+obstacle,119.31,,6.20,-4.21,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.20 m): steering left
+obstacle,119.40,,6.20,-4.21,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.20 m): steering left
+obstacle,119.50,,6.21,-4.20,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.20 m): steering left
+obstacle,119.62,,6.22,-4.20,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.19 m): steering left
+obstacle,119.72,,6.22,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.19 m): steering left
+obstacle,119.80,,6.22,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.19 m): steering left
+obstacle,119.90,,6.23,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,120.00,,6.23,-4.19,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,120.11,,6.23,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,120.20,,6.24,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,120.30,,6.24,-4.18,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,120.41,,6.25,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,120.61,,6.25,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.17 m): steering left
+obstacle,120.64,,6.25,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.17 m): steering left
+obstacle,120.70,,6.26,-4.17,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.17 m): steering left
+obstacle,120.80,,6.26,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,120.90,,6.27,-4.16,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,121.02,,6.27,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,121.10,,6.27,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,121.22,,6.28,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,121.31,,6.28,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,121.40,,6.28,-4.15,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,121.50,,6.29,-4.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,121.61,,6.29,-4.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,121.70,,6.30,-4.14,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,121.80,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,121.90,,6.31,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.00,,6.31,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.10,,6.32,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.21,,6.32,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.30,,6.33,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.40,,6.33,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.50,,6.33,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.62,,6.33,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.71,,6.33,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.80,,6.33,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,122.90,,6.33,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.00,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.10,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.21,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.30,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.40,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.50,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.61,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.71,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.81,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,123.91,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.00,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.11,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.20,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.31,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.40,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.50,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.63,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.70,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.80,,6.31,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,124.90,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,125.02,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,125.10,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,125.20,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,125.30,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,125.40,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,125.56,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,125.60,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,125.71,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,125.80,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,125.90,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.02,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.13,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.20,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.30,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.42,,6.30,-4.13,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.51,,6.30,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.60,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.70,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,126.80,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,126.91,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,127.00,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,127.10,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,127.20,,6.31,-4.12,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,127.31,,6.31,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,127.42,,6.31,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,127.50,,6.31,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,127.60,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,127.72,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,127.83,,6.32,-4.11,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,127.90,,6.32,-4.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,128.00,,6.32,-4.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,128.11,,6.32,-4.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,128.20,,6.32,-4.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.14 m): steering left
+obstacle,128.35,,6.32,-4.10,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,128.40,,6.33,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,128.52,,6.33,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,128.60,,6.33,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,128.70,,6.33,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,128.82,,6.33,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,128.92,,6.33,-4.09,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.01,,6.33,-4.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.10,,6.33,-4.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.20,,6.34,-4.08,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.31,,6.34,-4.07,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.42,,6.34,-4.07,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.50,,6.34,-4.07,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.60,,6.34,-4.06,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.70,,6.34,-4.06,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.82,,6.35,-4.06,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,129.92,,6.35,-4.05,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.00,,6.35,-4.05,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.10,,6.35,-4.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.20,,6.35,-4.04,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.31,,6.35,-4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.40,,6.36,-4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.50,,6.36,-4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.61,,6.36,-4.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.71,,6.36,-4.01,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.80,,6.36,-4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,130.90,,6.36,-4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.00,,6.36,-3.99,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.10,,6.37,-3.98,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.21,,6.37,-3.97,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.30,,6.37,-3.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.40,,6.37,-3.96,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.51,,6.37,-3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.60,,6.37,-3.93,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.71,,6.37,-3.92,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.80,,6.37,-3.91,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,131.90,,6.37,-3.90,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,132.00,,6.37,-3.88,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,132.13,,6.37,-3.86,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,132.24,,6.37,-3.85,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,132.32,,6.37,-3.84,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,132.40,,6.36,-3.82,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,132.50,,6.36,-3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,132.60,,6.36,-3.78,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,132.73,,6.35,-3.74,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,132.81,,6.35,-3.73,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,132.93,,6.35,-3.73,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,133.00,,6.35,-3.71,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,133.11,,6.34,-3.68,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.15 m): steering left
+obstacle,133.22,,6.34,-3.66,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.16 m): steering left
+obstacle,133.30,,6.34,-3.63,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.16 m): steering left
+obstacle,133.40,,6.33,-3.62,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.16 m): steering left
+obstacle,133.53,,6.33,-3.61,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.16 m): steering left
+obstacle,133.60,,6.33,-3.57,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,133.84,,6.32,-3.56,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,133.93,,6.32,-3.56,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,134.02,,6.32,-3.54,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.18 m): steering left
+obstacle,134.15,,6.32,-3.53,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.19 m): steering left
+obstacle,134.22,,6.31,-3.50,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.19 m): steering left
+obstacle,134.31,,6.31,-3.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.19 m): steering left
+obstacle,134.41,,6.31,-3.48,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.16 m): steering right
+obstacle,134.50,,6.30,-3.46,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.16 m): steering right
+obstacle,134.60,,6.30,-3.45,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.16 m): steering right
+obstacle,134.82,,6.30,-3.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.16 m): steering right
+obstacle,135.09,,6.29,-3.44,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.16 m): steering right
+obstacle,135.15,,6.29,-3.43,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.16 m): steering right
+obstacle,135.21,,6.29,-3.42,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,135.33,,6.29,-3.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,135.47,,6.29,-3.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,135.51,,6.29,-3.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,135.71,,6.29,-3.41,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,135.89,,6.28,-3.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,135.94,,6.28,-3.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.13 m): steering left
+obstacle,136.07,,6.28,-3.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.11,,6.28,-3.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.26,,6.28,-3.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.36,,6.28,-3.40,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.43,,6.28,-3.39,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.50,,6.28,-3.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.60,,6.28,-3.38,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.70,,6.28,-3.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.80,,6.27,-3.37,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,136.90,,6.27,-3.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,137.01,,6.27,-3.36,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,137.10,,6.27,-3.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,137.21,,6.27,-3.35,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,137.32,,6.27,-3.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,137.43,,6.26,-3.34,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.12 m): steering right
+obstacle,137.50,,6.26,-3.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.12 m): steering right
+obstacle,137.60,,6.26,-3.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on left (min 0.12 m): steering right
+obstacle,137.71,,6.26,-3.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,137.80,,6.26,-3.33,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left
+obstacle,137.90,,6.26,-3.32,0.00,AdaptiveCoverage_Obstacles,,,,,Obstacle on right (min 0.12 m): steering left

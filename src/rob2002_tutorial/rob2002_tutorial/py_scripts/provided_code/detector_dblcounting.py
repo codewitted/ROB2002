@@ -8,7 +8,7 @@ from sensor_msgs.msg import Image
 from geometry_msgs.msg import Polygon, PolygonStamped, Point32
 from cv_bridge import CvBridge
 
-from rectangle import Rectangle
+from rob2002_tutorial.rob2002_tutorial.py_scripts.provided_code.rectangle import Rectangle
 
 class DetectorBasic(Node):
     visualisation = True

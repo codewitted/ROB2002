@@ -1,0 +1,14 @@
+record_type,time_sec,color,x,y,z,scenario,count_red,count_green,count_blue,count_total,extra_notes
+blue,12.10,,-0.86,-1.08,0.07,reversing_demo,,,,,
+green,12.10,,1.21,-2.69,0.07,reversing_demo,,,,,
+green,12.11,,4.15,-0.78,0.07,reversing_demo,,,,,
+blue,15.00,,-0.13,-1.14,0.00,reversing_demo,,,,,
+green,15.01,,-0.56,-1.55,0.13,reversing_demo,,,,,
+green,18.41,,2.98,-3.66,0.01,reversing_demo,,,,,
+green,18.44,,4.93,-0.77,0.06,reversing_demo,,,,,
+red,21.57,,7.65,-3.60,0.04,reversing_demo,,,,,
+red,24.78,,5.16,-2.79,0.08,reversing_demo,,,,,
+green,29.27,,2.50,-3.28,0.01,reversing_demo,,,,,
+green,29.40,,6.48,-0.37,0.03,reversing_demo,,,,,
+red,29.41,,6.60,-3.37,0.05,reversing_demo,,,,,
+SUMMARY,73.99,,,,,reversing_demo,3,7,2,12,Run completed or interrupted.

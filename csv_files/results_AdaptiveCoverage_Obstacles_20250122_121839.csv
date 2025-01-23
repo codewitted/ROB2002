@@ -1,0 +1,639 @@
+record_type,time_sec,color,x,y,z,scenario,count_red,count_green,count_blue,count_total,extra_notes
+impact,0.20,,4.16,4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,0.34,,4.16,4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,0.40,,4.16,4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,0.51,,4.16,4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,0.64,,4.16,4.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,0.72,,4.15,4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,0.84,,4.15,4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,0.93,,4.15,4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,1.00,,4.15,4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,1.10,,4.15,4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,1.26,,4.15,4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,1.41,,4.15,4.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,1.51,,4.15,4.01,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,2.01,,4.15,4.01,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,2.13,,4.15,4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,2.22,,4.15,4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,2.31,,4.15,4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,2.62,,4.15,4.00,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,2.77,,4.14,3.99,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,2.82,,4.14,3.99,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,2.96,,4.14,3.98,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,3.06,,4.14,3.98,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,3.10,,4.14,3.97,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,3.21,,4.13,3.96,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,3.31,,4.13,3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,3.55,,4.13,3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,3.74,,4.13,3.95,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,3.82,,4.11,3.92,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.12 m – turning right.
+impact,3.92,,4.10,3.90,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.12 m – turning right.
+impact,4.02,,4.10,3.88,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.15 m – turning right.
+impact,4.11,,4.09,3.87,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.15 m – turning right.
+impact,4.20,,4.09,3.86,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.15 m – turning right.
+impact,4.30,,4.08,3.84,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.18 m – turning right.
+impact,4.43,,4.07,3.83,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.18 m – turning right.
+impact,4.53,,4.07,3.82,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.18 m – turning right.
+impact,4.64,,4.06,3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.18 m – turning right.
+impact,4.71,,4.06,3.80,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.21 m – turning right.
+impact,4.80,,4.05,3.79,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.21 m – turning right.
+impact,4.91,,4.04,3.77,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.21 m – turning right.
+impact,5.01,,4.03,3.75,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,5.11,,4.02,3.73,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,5.20,,4.02,3.72,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,5.30,,4.01,3.71,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,5.42,,4.00,3.68,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.27 m – turning right.
+impact,5.51,,3.99,3.68,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.27 m – turning right.
+impact,5.61,,3.98,3.66,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.27 m – turning right.
+impact,5.71,,3.98,3.65,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.30 m – turning right.
+impact,5.80,,3.98,3.64,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.30 m – turning right.
+impact,5.91,,3.97,3.63,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.30 m – turning right.
+impact,6.01,,3.96,3.62,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.30 m – turning right.
+impact,6.16,,3.95,3.59,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.32 m – turning right.
+impact,6.20,,3.94,3.58,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.32 m – turning right.
+impact,6.31,,3.94,3.57,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.32 m – turning right.
+impact,6.40,,3.93,3.55,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.32 m – turning right.
+impact,6.56,,3.92,3.54,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.35 m – turning right.
+impact,6.65,,3.91,3.52,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.35 m – turning right.
+impact,6.71,,3.91,3.51,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.35 m – turning right.
+impact,6.81,,3.90,3.50,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.35 m – turning right.
+impact,6.90,,3.89,3.48,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.40 m – turning right.
+impact,7.00,,3.88,3.47,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.40 m – turning right.
+impact,7.11,,3.87,3.45,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.40 m – turning right.
+impact,7.23,,3.86,3.43,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.43 m – turning right.
+impact,7.31,,3.86,3.43,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.43 m – turning right.
+impact,7.40,,3.85,3.42,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.43 m – turning right.
+impact,7.50,,3.84,3.40,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.43 m – turning right.
+impact,7.62,,3.83,3.39,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.46 m – turning right.
+impact,7.75,,3.83,3.38,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.46 m – turning right.
+impact,7.84,,3.83,3.38,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.46 m – turning right.
+impact,7.90,,3.82,3.37,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.46 m – turning right.
+impact,8.05,,3.81,3.36,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.46 m – turning right.
+clear,8.10,,3.81,3.35,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,8.23,,3.81,3.34,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,8.32,,3.80,3.33,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,8.40,,3.79,3.32,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,8.51,,3.79,3.32,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,8.61,,3.77,3.29,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,8.71,,3.76,3.28,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,8.82,,3.75,3.26,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,8.91,,3.74,3.26,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.01,,3.73,3.24,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.16,,3.72,3.24,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.25,,3.72,3.24,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.30,,3.71,3.22,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.40,,3.70,3.21,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.50,,3.69,3.19,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.60,,3.68,3.18,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.71,,3.67,3.16,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.80,,3.67,3.15,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,9.90,,3.65,3.13,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.01,,3.64,3.12,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.10,,3.63,3.10,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.20,,3.62,3.09,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.30,,3.60,3.07,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.40,,3.60,3.06,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.50,,3.58,3.04,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.60,,3.57,3.02,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.70,,3.56,3.01,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,10.98,,3.56,3.00,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.01,,3.55,2.99,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.10,,3.55,2.98,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.22,,3.54,2.97,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.31,,3.54,2.97,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.40,,3.53,2.95,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.51,,3.53,2.94,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.70,,3.52,2.93,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.71,,3.52,2.93,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.89,,3.52,2.92,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,11.94,,3.51,2.91,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.00,,3.50,2.89,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.29,,3.50,2.89,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.36,,3.50,2.89,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.40,,3.48,2.86,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.50,,3.46,2.82,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.60,,3.45,2.80,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.70,,3.44,2.79,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.82,,3.43,2.78,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,12.90,,3.43,2.77,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.00,,3.43,2.76,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.11,,3.42,2.75,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.23,,3.42,2.74,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.31,,3.42,2.74,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.41,,3.42,2.74,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.53,,3.41,2.73,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.63,,3.41,2.73,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.70,,3.41,2.73,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.83,,3.41,2.73,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,13.91,,3.41,2.72,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.00,,3.41,2.72,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.11,,3.40,2.72,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.20,,3.40,2.71,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.38,,3.40,2.71,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.46,,3.40,2.71,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.50,,3.40,2.70,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.60,,3.40,2.70,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.70,,3.39,2.70,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.80,,3.39,2.69,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,14.90,,3.39,2.69,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.00,,3.38,2.68,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.10,,3.38,2.68,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.22,,3.38,2.68,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.32,,3.37,2.67,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.40,,3.37,2.67,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.50,,3.37,2.66,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.60,,3.37,2.66,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.70,,3.36,2.65,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.82,,3.36,2.65,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,15.90,,3.36,2.65,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.00,,3.35,2.64,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.11,,3.35,2.64,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.23,,3.35,2.64,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.31,,3.35,2.63,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.41,,3.35,2.63,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.50,,3.34,2.62,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.61,,3.34,2.62,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.70,,3.34,2.61,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.80,,3.34,2.61,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,16.90,,3.34,2.60,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.01,,3.34,2.60,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.11,,3.34,2.59,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.20,,3.33,2.59,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.31,,3.33,2.58,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.40,,3.33,2.58,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.51,,3.33,2.57,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.61,,3.33,2.57,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.70,,3.33,2.56,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+clear,17.86,,3.33,2.56,0.00,AdaptiveCoverage_Obstacles,,,,,No lateral avoidance required; path clear.
+impact,17.90,,3.33,2.55,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.48 m – turning right.
+impact,18.01,,3.32,2.55,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.48 m – turning right.
+impact,18.10,,3.32,2.55,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.48 m – turning right.
+impact,18.20,,3.32,2.54,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.48 m – turning right.
+impact,18.31,,3.32,2.53,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.48 m – turning right.
+impact,18.40,,3.32,2.53,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.48 m – turning right.
+impact,18.51,,3.32,2.52,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.45 m – turning right.
+impact,18.61,,3.32,2.52,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.45 m – turning right.
+impact,18.70,,3.32,2.52,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.45 m – turning right.
+impact,18.81,,3.31,2.51,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.45 m – turning right.
+impact,18.91,,3.31,2.51,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.44 m – turning right.
+impact,19.04,,3.31,2.51,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.44 m – turning right.
+impact,19.11,,3.31,2.50,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.44 m – turning right.
+impact,19.20,,3.31,2.50,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.44 m – turning right.
+impact,19.33,,3.31,2.50,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.44 m – turning right.
+impact,19.41,,3.31,2.49,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.43 m – turning right.
+impact,19.50,,3.31,2.49,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.43 m – turning right.
+impact,19.61,,3.31,2.48,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.43 m – turning right.
+impact,19.71,,3.30,2.48,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.41 m – turning right.
+impact,19.80,,3.30,2.47,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.41 m – turning right.
+impact,19.90,,3.30,2.47,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.41 m – turning right.
+impact,20.03,,3.30,2.46,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.39 m – turning right.
+impact,20.12,,3.30,2.46,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.39 m – turning right.
+impact,20.22,,3.29,2.46,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.39 m – turning right.
+impact,20.30,,3.29,2.45,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.39 m – turning right.
+impact,20.40,,3.29,2.45,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.38 m – turning right.
+impact,20.52,,3.29,2.44,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.38 m – turning right.
+impact,20.60,,3.29,2.44,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.38 m – turning right.
+impact,20.70,,3.29,2.43,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.38 m – turning right.
+impact,20.80,,3.29,2.43,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.37 m – turning right.
+impact,20.91,,3.29,2.42,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.37 m – turning right.
+impact,21.00,,3.28,2.42,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.37 m – turning right.
+impact,21.10,,3.28,2.42,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.34 m – turning right.
+impact,21.20,,3.28,2.41,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.34 m – turning right.
+impact,21.40,,3.28,2.41,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.34 m – turning right.
+impact,21.42,,3.28,2.41,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.34 m – turning right.
+impact,21.52,,3.28,2.41,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.34 m – turning right.
+impact,21.62,,3.28,2.40,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.33 m – turning right.
+impact,21.74,,3.28,2.40,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.33 m – turning right.
+impact,21.81,,3.28,2.40,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.33 m – turning right.
+impact,21.90,,3.28,2.39,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.33 m – turning right.
+impact,22.01,,3.28,2.39,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.33 m – turning right.
+impact,22.11,,3.28,2.38,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.32 m – turning right.
+impact,22.20,,3.28,2.38,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.32 m – turning right.
+impact,22.31,,3.27,2.37,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.32 m – turning right.
+impact,22.42,,3.27,2.37,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.30 m – turning right.
+impact,22.50,,3.27,2.36,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.30 m – turning right.
+impact,22.62,,3.27,2.36,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.30 m – turning right.
+impact,22.71,,3.27,2.35,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.29 m – turning right.
+impact,22.81,,3.27,2.35,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.29 m – turning right.
+impact,22.90,,3.27,2.34,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.29 m – turning right.
+impact,23.00,,3.27,2.34,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.28 m – turning right.
+impact,23.10,,3.27,2.33,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.28 m – turning right.
+impact,23.21,,3.26,2.33,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.28 m – turning right.
+impact,23.32,,3.26,2.32,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.28 m – turning right.
+impact,23.43,,3.26,2.32,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,23.50,,3.26,2.32,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,23.60,,3.26,2.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,23.71,,3.26,2.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,23.85,,3.26,2.30,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,23.91,,3.26,2.30,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,24.00,,3.26,2.30,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,24.12,,3.26,2.29,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.24 m – turning right.
+impact,24.21,,3.25,2.29,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.22 m – turning right.
+impact,24.30,,3.25,2.28,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.22 m – turning right.
+impact,24.41,,3.25,2.28,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.22 m – turning right.
+impact,24.54,,3.25,2.27,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.22 m – turning right.
+impact,24.61,,3.25,2.27,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.21 m – turning right.
+impact,24.71,,3.25,2.27,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.21 m – turning right.
+impact,24.84,,3.25,2.26,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.21 m – turning right.
+impact,24.91,,3.25,2.26,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.19 m – turning right.
+impact,25.10,,3.25,2.26,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.19 m – turning right.
+impact,25.23,,3.24,2.25,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.19 m – turning right.
+impact,25.32,,3.24,2.25,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.19 m – turning right.
+impact,25.40,,3.24,2.24,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.19 m – turning right.
+impact,25.50,,3.24,2.24,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.17 m – turning right.
+impact,25.62,,3.24,2.23,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.17 m – turning right.
+impact,25.70,,3.24,2.23,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.17 m – turning right.
+impact,25.87,,3.24,2.22,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.16 m – turning right.
+impact,25.91,,3.24,2.22,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.16 m – turning right.
+impact,26.00,,3.24,2.21,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.16 m – turning right.
+impact,26.11,,3.23,2.21,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.13 m – turning right.
+impact,26.20,,3.23,2.20,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.13 m – turning right.
+impact,26.34,,3.23,2.20,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.13 m – turning right.
+impact,26.44,,3.23,2.19,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.13 m – turning right.
+impact,26.50,,3.23,2.19,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.13 m – turning right.
+impact,26.65,,3.23,2.19,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.13 m – turning right.
+impact,26.71,,3.23,2.18,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.13 m – turning right.
+impact,26.80,,3.23,2.18,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.13 m – turning right.
+impact,26.94,,3.22,2.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,27.04,,3.22,2.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,27.15,,3.22,2.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,27.27,,3.22,2.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,27.31,,3.22,2.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,27.41,,3.22,2.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.10 m – turning right.
+impact,27.51,,3.22,2.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,27.60,,3.22,2.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,27.72,,3.22,2.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.09 m – turning right.
+impact,27.82,,3.22,2.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,27.90,,3.22,2.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,28.00,,3.21,2.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,28.13,,3.21,2.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,28.28,,3.21,2.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,28.35,,3.21,2.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.08 m – turning right.
+impact,28.45,,3.21,2.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.07 m – turning right.
+impact,28.50,,3.21,2.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.07 m – turning right.
+impact,28.60,,3.21,2.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.07 m – turning right.
+impact,28.72,,3.21,2.11,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.04 m – turning right.
+impact,28.80,,3.21,2.10,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.04 m – turning right.
+impact,28.91,,3.20,2.10,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.04 m – turning right.
+impact,29.02,,3.20,2.09,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.02 m – turning right.
+impact,29.11,,3.20,2.09,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.02 m – turning right.
+impact,29.21,,3.20,2.09,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.02 m – turning right.
+impact,29.33,,3.20,2.09,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.02 m – turning right.
+impact,29.45,,3.20,2.09,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.02 m – turning right.
+impact,29.52,,3.20,2.08,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.02 m – turning right.
+impact,29.61,,3.20,2.08,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.01 m – turning right.
+impact,29.70,,3.20,2.07,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.01 m – turning right.
+impact,29.83,,3.19,2.07,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.01 m – turning right.
+impact,29.91,,3.19,2.07,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.00 m – turning right.
+impact,30.02,,3.19,2.06,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.00 m – turning right.
+impact,30.10,,3.19,2.06,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.00 m – turning right.
+impact,30.23,,3.19,2.06,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.00 m – turning right.
+impact,30.32,,3.19,2.05,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 1.00 m – turning right.
+impact,30.44,,3.19,2.05,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.98 m – turning right.
+impact,30.57,,3.19,2.05,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.98 m – turning right.
+impact,30.60,,3.19,2.05,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.98 m – turning right.
+impact,30.70,,3.19,2.05,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.98 m – turning right.
+impact,30.82,,3.19,2.04,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.98 m – turning right.
+impact,30.97,,3.19,2.04,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.98 m – turning right.
+impact,31.01,,3.19,2.04,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.98 m – turning right.
+impact,31.13,,3.18,2.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.96 m – turning right.
+impact,31.26,,3.18,2.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.96 m – turning right.
+impact,31.38,,3.18,2.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.96 m – turning right.
+impact,31.41,,3.18,2.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.96 m – turning right.
+impact,31.53,,3.18,2.03,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.96 m – turning right.
+impact,31.73,,3.18,2.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.96 m – turning right.
+impact,31.85,,3.18,2.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.94 m – turning right.
+impact,31.92,,3.18,2.02,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.94 m – turning right.
+impact,32.00,,3.18,2.01,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.94 m – turning right.
+impact,32.10,,3.18,2.01,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.94 m – turning right.
+impact,32.22,,3.17,2.00,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.94 m – turning right.
+impact,32.37,,3.17,2.00,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.94 m – turning right.
+impact,32.41,,3.17,2.00,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.94 m – turning right.
+impact,32.50,,3.17,1.99,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.94 m – turning right.
+impact,32.61,,3.17,1.99,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.92 m – turning right.
+impact,32.70,,3.17,1.98,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.92 m – turning right.
+impact,32.80,,3.17,1.98,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.92 m – turning right.
+impact,32.90,,3.16,1.98,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.92 m – turning right.
+impact,33.02,,3.16,1.97,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.90 m – turning right.
+impact,33.11,,3.16,1.97,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.90 m – turning right.
+impact,33.20,,3.16,1.96,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.90 m – turning right.
+impact,33.30,,3.16,1.96,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.89 m – turning right.
+impact,33.44,,3.16,1.96,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.89 m – turning right.
+impact,33.53,,3.16,1.95,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.89 m – turning right.
+impact,33.62,,3.15,1.95,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.89 m – turning right.
+impact,33.71,,3.15,1.95,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.89 m – turning right.
+impact,33.80,,3.15,1.94,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.88 m – turning right.
+impact,33.90,,3.15,1.94,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.88 m – turning right.
+impact,34.00,,3.15,1.93,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.88 m – turning right.
+impact,34.11,,3.15,1.93,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.86 m – turning right.
+impact,34.21,,3.15,1.93,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.86 m – turning right.
+impact,34.35,,3.15,1.92,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.86 m – turning right.
+impact,34.45,,3.14,1.92,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.86 m – turning right.
+impact,34.54,,3.14,1.92,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.86 m – turning right.
+impact,34.63,,3.14,1.92,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.86 m – turning right.
+impact,34.71,,3.14,1.91,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.84 m – turning right.
+impact,34.86,,3.14,1.91,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.84 m – turning right.
+impact,34.92,,3.14,1.91,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.84 m – turning right.
+impact,35.01,,3.14,1.90,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.84 m – turning right.
+impact,35.16,,3.14,1.90,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.84 m – turning right.
+impact,35.29,,3.14,1.90,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.82 m – turning right.
+impact,35.38,,3.14,1.90,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.82 m – turning right.
+impact,35.40,,3.14,1.90,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.82 m – turning right.
+impact,35.50,,3.14,1.89,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.82 m – turning right.
+impact,35.64,,3.14,1.88,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.82 m – turning right.
+impact,35.77,,3.14,1.88,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.81 m – turning right.
+impact,35.89,,3.14,1.88,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.81 m – turning right.
+impact,35.90,,3.14,1.88,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.81 m – turning right.
+impact,36.03,,3.14,1.88,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.81 m – turning right.
+impact,36.11,,3.14,1.87,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.81 m – turning right.
+impact,36.22,,3.13,1.87,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.81 m – turning right.
+impact,36.33,,3.13,1.86,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.80 m – turning right.
+impact,36.44,,3.13,1.86,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.80 m – turning right.
+impact,36.52,,3.13,1.86,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.80 m – turning right.
+impact,36.63,,3.13,1.86,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.80 m – turning right.
+impact,36.72,,3.13,1.85,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.80 m – turning right.
+impact,36.81,,3.13,1.85,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.80 m – turning right.
+impact,36.92,,3.13,1.85,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.80 m – turning right.
+impact,37.02,,3.13,1.85,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.78 m – turning right.
+impact,37.11,,3.13,1.84,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.78 m – turning right.
+impact,37.21,,3.13,1.84,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.78 m – turning right.
+impact,37.31,,3.13,1.84,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.78 m – turning right.
+impact,37.41,,3.13,1.83,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.76 m – turning right.
+impact,37.50,,3.13,1.83,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.76 m – turning right.
+impact,37.60,,3.12,1.82,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.76 m – turning right.
+impact,37.71,,3.12,1.82,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.75 m – turning right.
+impact,37.80,,3.12,1.81,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.75 m – turning right.
+impact,37.90,,3.12,1.81,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.75 m – turning right.
+impact,38.00,,3.12,1.80,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.73 m – turning right.
+impact,38.10,,3.12,1.80,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.73 m – turning right.
+impact,38.21,,3.12,1.79,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.73 m – turning right.
+impact,38.32,,3.11,1.79,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.71 m – turning right.
+impact,38.40,,3.11,1.78,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.71 m – turning right.
+impact,38.51,,3.11,1.78,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.71 m – turning right.
+impact,38.60,,3.11,1.77,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.71 m – turning right.
+impact,38.71,,3.11,1.77,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.70 m – turning right.
+impact,38.82,,3.11,1.76,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.70 m – turning right.
+impact,38.91,,3.11,1.76,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.70 m – turning right.
+impact,39.08,,3.11,1.76,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.70 m – turning right.
+impact,39.11,,3.11,1.75,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.68 m – turning right.
+impact,39.22,,3.10,1.75,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.68 m – turning right.
+impact,39.30,,3.10,1.74,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.68 m – turning right.
+impact,39.42,,3.10,1.74,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.65 m – turning right.
+impact,39.51,,3.10,1.74,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.65 m – turning right.
+impact,39.60,,3.10,1.73,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.65 m – turning right.
+impact,39.71,,3.10,1.73,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.65 m – turning right.
+impact,39.81,,3.10,1.72,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.66 m – turning right.
+impact,39.92,,3.10,1.72,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.66 m – turning right.
+impact,40.01,,3.10,1.71,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.66 m – turning right.
+impact,40.11,,3.09,1.70,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.64 m – turning right.
+impact,40.20,,3.09,1.70,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.64 m – turning right.
+impact,40.30,,3.09,1.70,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.64 m – turning right.
+impact,40.48,,3.09,1.69,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.61 m – turning right.
+impact,40.54,,3.09,1.69,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.61 m – turning right.
+impact,40.60,,3.09,1.68,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.61 m – turning right.
+impact,40.71,,3.09,1.68,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.61 m – turning right.
+impact,40.87,,3.09,1.68,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.60 m – turning right.
+impact,40.90,,3.09,1.67,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.60 m – turning right.
+impact,41.01,,3.09,1.67,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.60 m – turning right.
+impact,41.10,,3.08,1.66,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.60 m – turning right.
+impact,41.20,,3.08,1.66,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.60 m – turning right.
+impact,41.30,,3.08,1.65,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.60 m – turning right.
+impact,41.42,,3.08,1.65,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.60 m – turning right.
+impact,41.53,,3.08,1.64,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.58 m – turning right.
+impact,41.60,,3.08,1.64,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.58 m – turning right.
+impact,41.71,,3.08,1.64,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.58 m – turning right.
+impact,41.80,,3.08,1.64,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.58 m – turning right.
+impact,41.96,,3.08,1.63,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.56 m – turning right.
+impact,42.01,,3.07,1.63,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.56 m – turning right.
+impact,42.10,,3.07,1.62,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.56 m – turning right.
+impact,42.20,,3.07,1.62,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.56 m – turning right.
+impact,42.30,,3.07,1.61,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.56 m – turning right.
+impact,42.40,,3.07,1.61,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.56 m – turning right.
+impact,42.50,,3.07,1.60,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.56 m – turning right.
+impact,42.61,,3.07,1.60,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.54 m – turning right.
+impact,42.71,,3.06,1.59,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.54 m – turning right.
+impact,42.81,,3.06,1.59,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.54 m – turning right.
+impact,42.91,,3.06,1.58,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.52 m – turning right.
+impact,43.01,,3.06,1.58,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.52 m – turning right.
+impact,43.11,,3.06,1.58,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.52 m – turning right.
+impact,43.20,,3.05,1.57,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.51 m – turning right.
+impact,43.32,,3.05,1.56,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.51 m – turning right.
+impact,43.41,,3.05,1.56,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.51 m – turning right.
+impact,43.51,,3.05,1.55,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.48 m – turning right.
+impact,43.60,,3.05,1.55,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.48 m – turning right.
+impact,43.70,,3.04,1.54,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.48 m – turning right.
+impact,43.89,,3.04,1.54,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.47 m – turning right.
+impact,43.90,,3.04,1.54,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.47 m – turning right.
+impact,44.00,,3.04,1.53,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.47 m – turning right.
+impact,44.10,,3.04,1.53,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.47 m – turning right.
+impact,44.20,,3.04,1.52,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.45 m – turning right.
+impact,44.33,,3.04,1.52,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.45 m – turning right.
+impact,44.45,,3.04,1.52,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.45 m – turning right.
+impact,44.51,,3.04,1.52,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.45 m – turning right.
+impact,44.61,,3.04,1.51,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.45 m – turning right.
+impact,44.71,,3.04,1.51,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.43 m – turning right.
+impact,44.80,,3.04,1.51,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.43 m – turning right.
+impact,44.90,,3.04,1.50,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.43 m – turning right.
+impact,45.03,,3.03,1.50,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.42 m – turning right.
+impact,45.10,,3.03,1.49,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.42 m – turning right.
+impact,45.21,,3.03,1.49,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.42 m – turning right.
+impact,45.30,,3.03,1.48,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.41 m – turning right.
+impact,45.47,,3.03,1.47,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.41 m – turning right.
+impact,45.50,,3.03,1.47,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.41 m – turning right.
+impact,45.60,,3.03,1.46,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.38 m – turning right.
+impact,45.70,,3.03,1.46,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.38 m – turning right.
+impact,45.81,,3.02,1.45,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.38 m – turning right.
+impact,45.91,,3.02,1.44,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.38 m – turning right.
+impact,46.00,,3.02,1.44,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.38 m – turning right.
+impact,46.10,,3.02,1.43,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.38 m – turning right.
+impact,46.25,,3.02,1.43,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.34 m – turning right.
+impact,46.30,,3.02,1.43,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.34 m – turning right.
+impact,46.42,,3.02,1.42,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.34 m – turning right.
+impact,46.50,,3.02,1.41,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.34 m – turning right.
+impact,46.60,,3.02,1.41,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.34 m – turning right.
+impact,46.71,,3.01,1.40,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.34 m – turning right.
+impact,46.82,,3.01,1.40,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.32 m – turning right.
+impact,46.91,,3.01,1.39,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.32 m – turning right.
+impact,47.00,,3.01,1.39,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.32 m – turning right.
+impact,47.10,,3.01,1.38,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.32 m – turning right.
+impact,47.21,,3.01,1.38,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.31 m – turning right.
+impact,47.31,,3.01,1.37,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.31 m – turning right.
+impact,47.40,,3.01,1.37,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.31 m – turning right.
+impact,47.51,,3.00,1.36,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.30 m – turning right.
+impact,47.60,,3.00,1.36,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.30 m – turning right.
+impact,47.70,,3.00,1.35,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.26 m – turning right.
+impact,47.80,,3.00,1.35,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.26 m – turning right.
+impact,47.91,,3.00,1.34,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.26 m – turning right.
+impact,48.01,,3.00,1.33,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.26 m – turning right.
+impact,48.10,,3.00,1.33,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.26 m – turning right.
+impact,48.20,,3.00,1.32,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.26 m – turning right.
+impact,48.32,,2.99,1.32,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.25 m – turning right.
+impact,48.40,,2.99,1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.25 m – turning right.
+impact,48.50,,2.99,1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.25 m – turning right.
+impact,48.61,,2.99,1.30,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.22 m – turning right.
+impact,48.71,,2.99,1.30,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.22 m – turning right.
+impact,48.80,,2.99,1.29,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.22 m – turning right.
+impact,48.92,,2.99,1.29,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.21 m – turning right.
+impact,49.00,,2.99,1.28,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.21 m – turning right.
+impact,49.10,,2.99,1.28,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.21 m – turning right.
+impact,49.21,,2.98,1.27,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.21 m – turning right.
+impact,49.31,,2.98,1.27,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.21 m – turning right.
+impact,49.41,,2.98,1.27,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.20 m – turning right.
+impact,49.52,,2.98,1.26,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.20 m – turning right.
+impact,49.60,,2.98,1.26,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.20 m – turning right.
+impact,49.70,,2.98,1.25,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.18 m – turning left.
+impact,49.80,,2.98,1.25,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.18 m – turning left.
+impact,49.91,,2.98,1.24,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.18 m – turning left.
+impact,50.01,,2.97,1.24,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,50.10,,2.97,1.24,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,50.21,,2.97,1.23,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,50.31,,2.97,1.23,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.16 m – turning right.
+impact,50.40,,2.97,1.22,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.16 m – turning right.
+impact,50.50,,2.97,1.22,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.16 m – turning right.
+impact,50.60,,2.97,1.21,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.16 m – turning right.
+impact,50.71,,2.97,1.20,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.13 m – turning right.
+impact,50.80,,2.96,1.20,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.13 m – turning right.
+impact,50.90,,2.96,1.19,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.13 m – turning right.
+impact,51.01,,2.96,1.19,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.12 m – turning right.
+impact,51.13,,2.96,1.18,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.12 m – turning right.
+impact,51.21,,2.96,1.18,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.12 m – turning right.
+impact,51.31,,2.96,1.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,51.41,,2.96,1.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,51.51,,2.95,1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,51.61,,2.95,1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,51.71,,2.95,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,51.80,,2.95,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,51.92,,2.95,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.01,,2.95,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.10,,2.95,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.21,,2.95,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.30,,2.95,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.41,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.50,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.60,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.70,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.81,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,52.91,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.00,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.10,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.22,,2.94,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.30,,2.93,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.40,,2.93,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.50,,2.93,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.60,,2.93,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.70,,2.93,1.12,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.83,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,53.92,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.00,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.11,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.20,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.31,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.40,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.53,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.60,,2.93,1.13,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.72,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.82,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,54.91,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.01,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.10,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.21,,2.94,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.31,,2.94,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.41,,2.94,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.50,,2.94,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.61,,2.94,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.71,,2.94,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.80,,2.94,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,55.91,,2.94,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.01,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.10,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.21,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.30,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.43,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.51,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.60,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.70,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.81,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,56.90,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,57.01,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,57.13,,2.94,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.13 m – turning right.
+impact,57.22,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.13 m – turning right.
+impact,57.30,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.13 m – turning right.
+impact,57.40,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.13 m – turning right.
+impact,57.50,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.13 m – turning right.
+impact,57.61,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.14 m – turning left.
+impact,57.70,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.14 m – turning left.
+impact,57.80,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.14 m – turning left.
+impact,57.91,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,58.00,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,58.10,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,58.21,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.19 m – turning left.
+impact,58.31,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.19 m – turning left.
+impact,58.41,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.19 m – turning left.
+impact,58.51,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.22 m – turning left.
+impact,58.61,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.22 m – turning left.
+impact,58.73,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.22 m – turning left.
+impact,58.81,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.27 m – turning left.
+impact,58.90,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.27 m – turning left.
+impact,59.01,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.27 m – turning left.
+impact,59.12,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.27 m – turning left.
+impact,59.28,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.32 m – turning left.
+impact,59.36,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.32 m – turning left.
+impact,59.41,,2.93,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.32 m – turning left.
+impact,59.50,,2.92,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,59.60,,2.92,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,59.70,,2.92,1.14,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,59.81,,2.92,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,59.91,,2.92,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,60.00,,2.92,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,60.10,,2.91,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,60.20,,2.91,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,60.30,,2.91,1.15,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,60.40,,2.90,1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,60.51,,2.90,1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,60.61,,2.90,1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,60.73,,2.90,1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.36 m – turning left.
+impact,60.81,,2.90,1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.36 m – turning left.
+impact,60.90,,2.89,1.16,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.36 m – turning left.
+impact,61.00,,2.89,1.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.36 m – turning left.
+impact,61.11,,2.89,1.17,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.38 m – turning left.
+impact,61.21,,2.89,1.18,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.38 m – turning left.
+impact,61.30,,2.88,1.19,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.38 m – turning left.
+impact,61.42,,2.88,1.20,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.38 m – turning left.
+impact,61.51,,2.88,1.20,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.38 m – turning left.
+impact,61.61,,2.88,1.21,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,61.70,,2.87,1.21,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,61.82,,2.87,1.21,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,61.90,,2.87,1.22,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.39 m – turning left.
+impact,62.01,,2.87,1.22,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.41 m – turning left.
+impact,62.10,,2.87,1.23,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.41 m – turning left.
+impact,62.21,,2.86,1.23,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.41 m – turning left.
+impact,62.32,,2.86,1.24,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.43 m – turning left.
+impact,62.41,,2.86,1.24,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.43 m – turning left.
+impact,62.55,,2.86,1.25,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.43 m – turning left.
+impact,62.62,,2.86,1.25,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.43 m – turning left.
+impact,62.73,,2.85,1.25,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,62.81,,2.85,1.25,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,62.91,,2.85,1.26,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,63.00,,2.85,1.27,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.17 m – turning right.
+impact,63.12,,2.85,1.27,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,63.20,,2.84,1.28,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,63.31,,2.84,1.28,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,63.40,,2.84,1.29,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,63.52,,2.83,1.30,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,63.60,,2.83,1.30,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,63.70,,2.83,1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,64.18,,2.83,1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,64.39,,2.83,1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,64.41,,2.83,1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,64.52,,2.83,1.32,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,64.61,,2.82,1.33,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,64.71,,2.82,1.33,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,64.85,,2.81,1.34,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,64.91,,2.81,1.34,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,65.02,,2.81,1.35,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,65.12,,2.81,1.35,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.12 m – turning right.
+impact,65.20,,2.82,1.34,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.12 m – turning right.
+impact,65.31,,2.83,1.32,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on left at 0.12 m – turning right.
+impact,65.40,,2.83,1.31,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,65.50,,2.84,1.30,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
+impact,65.60,,2.84,1.29,0.00,AdaptiveCoverage_Obstacles,,,,,Impact alert: obstacle on right at 0.12 m – turning left.
