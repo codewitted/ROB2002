@@ -43,7 +43,7 @@ This repository contains ROS2 Python nodes and scripts to demonstrate a robotic 
    cd ..
    colcon build
    source install/setup.bash
-Make sure Docker is running on you machine before you do anything else.
+Make sure Docker is running on your machine before you do anything else.
 Go to worlds and run a chosen world.
 Once it's successfull, in another terminal run the enhanced or baseline node scripts to see the demo.
 You could also open and launch the maps yaml files to observe the experimemts there.
